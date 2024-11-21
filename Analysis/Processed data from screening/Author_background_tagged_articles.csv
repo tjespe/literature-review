@@ -1,0 +1,1960 @@
+﻿Article ID,Article ID (DB id),Article name (rollup),Author name,Author country,Author faculty,Full university information,raw text,Author country 2,Author faculty 2,Full faculty information 2,Author faculty 3,Full faculty 3,Faculty 4,full infor 4
+1,https://doi.org/10.1007/s42521-022-00050-0 (https://www.notion.so/https-doi-org-10-1007-s42521-022-00050-0-10c0ee199b1d81f89e17ff2ff3326b8b?pvs=21),DeepVaR: a framework for portfolio risk assessment leveraging probabilistic deep neural networks.,Georgios Fatouros,Greece,Department of Digital Systems,"Department of Digital Systems, University of Piraeus, Karaoli and Dimitriou 80, 18534 Piraeus,
+Greece","Georgios Fatouros1,2  · Georgios Makridis1
+· Dimitrios Kotios1
+·
+John Soldatos2
+· Michael Filippakis1
+· Dimosthenis Kyriazis1
+Georgios Makridis
+mailto:gmakridis@unipi.gr
+Dimitrios Kotios
+mailto:dimkotios@unipi.gr
+John Soldatos
+mailto:jsoldat@innov-acts.com
+Michael Filippakis
+mailto:mflip@unipi.gr
+Dimosthenis Kyriazis
+mailto:dimos@unipi.gr
+1 Department of Digital Systems, University of Piraeus, Karaoli and Dimitriou 80, 18534 Piraeus,
+Greece
+2 Innov-Acts Ltd, Kolokotroni 6, 1101 Nicosia, Cyprus",Cyprus,Innov-Acts Ltd,,,,,
+1,https://doi.org/10.1007/s42521-022-00050-0 (https://www.notion.so/https-doi-org-10-1007-s42521-022-00050-0-10c0ee199b1d81f89e17ff2ff3326b8b?pvs=21),DeepVaR: a framework for portfolio risk assessment leveraging probabilistic deep neural networks.,Georgios Makridis,Greece,Department of Digital Systems,"Department of Digital Systems, University of Piraeus, Karaoli and Dimitriou 80, 18534 Piraeus,
+Greece","Georgios Fatouros1,2  · Georgios Makridis1
+· Dimitrios Kotios1
+·
+John Soldatos2
+· Michael Filippakis1
+· Dimosthenis Kyriazis1
+Georgios Makridis
+mailto:gmakridis@unipi.gr
+Dimitrios Kotios
+mailto:dimkotios@unipi.gr
+John Soldatos
+mailto:jsoldat@innov-acts.com
+Michael Filippakis
+mailto:mflip@unipi.gr
+Dimosthenis Kyriazis
+mailto:dimos@unipi.gr
+1 Department of Digital Systems, University of Piraeus, Karaoli and Dimitriou 80, 18534 Piraeus,
+Greece
+2 Innov-Acts Ltd, Kolokotroni 6, 1101 Nicosia, Cyprus",,,,,,,
+1,https://doi.org/10.1007/s42521-022-00050-0 (https://www.notion.so/https-doi-org-10-1007-s42521-022-00050-0-10c0ee199b1d81f89e17ff2ff3326b8b?pvs=21),DeepVaR: a framework for portfolio risk assessment leveraging probabilistic deep neural networks.,Dimitrios Kotios,Greece,Department of Digital Systems,"Department of Digital Systems, University of Piraeus, Karaoli and Dimitriou 80, 18534 Piraeus,
+Greece","Georgios Fatouros1,2  · Georgios Makridis1
+ · Dimitrios Kotios1
+ ·
+John Soldatos2
+ · Michael Filippakis1
+ · Dimosthenis Kyriazis1
+Georgios Makridis
+gmakridis@unipi.gr
+Dimitrios Kotios
+dimkotios@unipi.gr
+John Soldatos
+jsoldat@innov-acts.com
+Michael Filippakis
+mflip@unipi.gr
+Dimosthenis Kyriazis
+dimos@unipi.gr
+1 Department of Digital Systems, University of Piraeus, Karaoli and Dimitriou 80, 18534 Piraeus,
+Greece
+2 Innov-Acts Ltd, Kolokotroni 6, 1101 Nicosia, Cyprus",,,,,,,
+1,https://doi.org/10.1007/s42521-022-00050-0 (https://www.notion.so/https-doi-org-10-1007-s42521-022-00050-0-10c0ee199b1d81f89e17ff2ff3326b8b?pvs=21),DeepVaR: a framework for portfolio risk assessment leveraging probabilistic deep neural networks.,John Soldatos,Cyprus,Innov-Acts Ltd,"Innov-Acts Ltd, Kolokotroni 6, 1101 Nicosia, Cyprus","Georgios Fatouros1,2  · Georgios Makridis1
+ · Dimitrios Kotios1
+ ·
+John Soldatos2
+ · Michael Filippakis1
+ · Dimosthenis Kyriazis1
+Georgios Makridis
+gmakridis@unipi.gr
+Dimitrios Kotios
+dimkotios@unipi.gr
+John Soldatos
+jsoldat@innov-acts.com
+Michael Filippakis
+mflip@unipi.gr
+Dimosthenis Kyriazis
+dimos@unipi.gr
+1 Department of Digital Systems, University of Piraeus, Karaoli and Dimitriou 80, 18534 Piraeus,
+Greece
+2 Innov-Acts Ltd, Kolokotroni 6, 1101 Nicosia, Cyprus",,,,,,,
+1,https://doi.org/10.1007/s42521-022-00050-0 (https://www.notion.so/https-doi-org-10-1007-s42521-022-00050-0-10c0ee199b1d81f89e17ff2ff3326b8b?pvs=21),DeepVaR: a framework for portfolio risk assessment leveraging probabilistic deep neural networks.,Michael Filippakis,Greece,Department of Digital Systems,"Department of Digital Systems, University of Piraeus, Karaoli and Dimitriou 80, 18534 Piraeus,
+Greece","Georgios Fatouros1,2  · Georgios Makridis1
+ · Dimitrios Kotios1
+ ·
+John Soldatos2
+ · Michael Filippakis1
+ · Dimosthenis Kyriazis1
+Georgios Makridis
+gmakridis@unipi.gr
+Dimitrios Kotios
+dimkotios@unipi.gr
+John Soldatos
+jsoldat@innov-acts.com
+Michael Filippakis
+mflip@unipi.gr
+Dimosthenis Kyriazis
+dimos@unipi.gr
+1 Department of Digital Systems, University of Piraeus, Karaoli and Dimitriou 80, 18534 Piraeus,
+Greece
+2 Innov-Acts Ltd, Kolokotroni 6, 1101 Nicosia, Cyprus",,,,,,,
+1,https://doi.org/10.1007/s42521-022-00050-0 (https://www.notion.so/https-doi-org-10-1007-s42521-022-00050-0-10c0ee199b1d81f89e17ff2ff3326b8b?pvs=21),DeepVaR: a framework for portfolio risk assessment leveraging probabilistic deep neural networks.,Dimosthenis Kyriazis,Greece,Department of Digital Systems,"Department of Digital Systems, University of Piraeus, Karaoli and Dimitriou 80, 18534 Piraeus,
+Greece","Georgios Fatouros1,2  · Georgios Makridis1
+ · Dimitrios Kotios1
+ ·
+John Soldatos2
+ · Michael Filippakis1
+ · Dimosthenis Kyriazis1
+Georgios Makridis
+gmakridis@unipi.gr
+Dimitrios Kotios
+dimkotios@unipi.gr
+John Soldatos
+jsoldat@innov-acts.com
+Michael Filippakis
+mflip@unipi.gr
+Dimosthenis Kyriazis
+dimos@unipi.gr
+1 Department of Digital Systems, University of Piraeus, Karaoli and Dimitriou 80, 18534 Piraeus,
+Greece
+2 Innov-Acts Ltd, Kolokotroni 6, 1101 Nicosia, Cyprus",,,,,,,
+2,WOS:000701133500001 (https://www.notion.so/WOS-000701133500001-10c0ee199b1d8105b13bc4b034eb8576?pvs=21),Estimation with Uncertainty via Conditional Generative Adversarial Networks,Minhyeok Lee,Korea,School of Electrical & Electronics Engineering,"School of Electrical & Electronics Engineering, Chung-Ang University, Seoul 06974, Korea; mailto:mlee@cau.ac.kr","Minhyeok Lee 1 and Junhee Seok 2,* 1 School of Electrical & Electronics Engineering, Chung-Ang University, Seoul 06974, Korea; mailto:mlee@cau.ac.kr
+2 School of Electrical Engineering, Korea University, Seoul 02841, Korea
+* Correspondence: mailto:jseok14@korea.ac.kr",,,,,,,
+2,WOS:000701133500001 (https://www.notion.so/WOS-000701133500001-10c0ee199b1d8105b13bc4b034eb8576?pvs=21),Estimation with Uncertainty via Conditional Generative Adversarial Networks,Junhee Seok,Korea,School of Electrical Engineering,"School of Electrical Engineering, Korea University, Seoul 02841, Korea
+","Minhyeok Lee 1 and Junhee Seok 2,* 1 School of Electrical & Electronics Engineering, Chung-Ang University, Seoul 06974, Korea; mailto:mlee@cau.ac.kr
+2 School of Electrical Engineering, Korea University, Seoul 02841, Korea
+* Correspondence: mailto:jseok14@korea.ac.kr",,,,,,,
+3,WOS:000619190000002 (https://www.notion.so/WOS-000619190000002-10c0ee199b1d8172970afa4a1d95bab4?pvs=21),ON A COMPUTATIONALLY SCALABLE SPARSE FORMULATION OF THE MULTIDIMENSIONAL AND NONSTATIONARY MAXIMUM ENTROPY PRINCIPLE,Illia Horenko,Switzerland," Faculty of Informatics","Università della Svizzera Italiana, Faculty of Informatics, Via G. Buffi 13, TI-6900 Lugano, Switzerland,","Illia Horenkoa,∗
+, Ganna Marchenkoa
+, Patrick Gagliardinib,c
+,
+aUniversità della Svizzera Italiana, Faculty of Informatics, Via G. Buffi 13, TI-6900 Lugano, Switzerland,
+bFaculty of Economics, Università della Svizzera italiana Via G. Buffi 13, CH-6900 Lugano, Switzerland,
+cSwiss Finance Institute, Walchestrasse 9, CH-8006 Zurich, Switzerland,
+∗To whom correspondence should be addressed; E-mail: mailto:horenkoi@usi.ch",,,,,,,
+3,WOS:000619190000002 (https://www.notion.so/WOS-000619190000002-10c0ee199b1d8172970afa4a1d95bab4?pvs=21),ON A COMPUTATIONALLY SCALABLE SPARSE FORMULATION OF THE MULTIDIMENSIONAL AND NONSTATIONARY MAXIMUM ENTROPY PRINCIPLE," Ganna Marchenko",Switzerland," Faculty of Informatics","Università della Svizzera Italiana, Faculty of Informatics, Via G. Buffi 13, TI-6900 Lugano, Switzerland,","Illia Horenkoa,∗
+, Ganna Marchenkoa
+, Patrick Gagliardinib,c
+,
+aUniversità della Svizzera Italiana, Faculty of Informatics, Via G. Buffi 13, TI-6900 Lugano, Switzerland,
+bFaculty of Economics, Università della Svizzera italiana Via G. Buffi 13, CH-6900 Lugano, Switzerland,
+cSwiss Finance Institute, Walchestrasse 9, CH-8006 Zurich, Switzerland,
+∗To whom correspondence should be addressed; E-mail: mailto:horenkoi@usi.ch",,,,,,,
+3,WOS:000619190000002 (https://www.notion.so/WOS-000619190000002-10c0ee199b1d8172970afa4a1d95bab4?pvs=21),ON A COMPUTATIONALLY SCALABLE SPARSE FORMULATION OF THE MULTIDIMENSIONAL AND NONSTATIONARY MAXIMUM ENTROPY PRINCIPLE,Patrick Gagliardini,Switzerland,Faculty of Economics,"Faculty of Economics, Università della Svizzera italiana Via G. Buffi 13, CH-6900 Lugano, Switzerland","Illia Horenkoa,∗
+, Ganna Marchenkoa
+, Patrick Gagliardinib,c
+,
+aUniversità della Svizzera Italiana, Faculty of Informatics, Via G. Buffi 13, TI-6900 Lugano, Switzerland,
+bFaculty of Economics, Università della Svizzera italiana Via G. Buffi 13, CH-6900 Lugano, Switzerland,
+cSwiss Finance Institute, Walchestrasse 9, CH-8006 Zurich, Switzerland,
+∗To whom correspondence should be addressed; E-mail: horenkoi@usi.ch",Switzerland,Swiss Finance Institute,"Swiss Finance Institute, Walchestrasse 9, CH-8006 Zurich, Switzerland",,,,
+4,WOS:001194900200001 (https://www.notion.so/WOS-001194900200001-10c0ee199b1d812da785e9a7e354ac72?pvs=21),Risk Forecasting Comparisons in Decentralized Finance: An Approach in Constant Product Market Makers,Lucas Mussoi Almeid,Brazil,Department of Mechanical Engineering,"Federal University of Rio Grande do Sul, Porto Alegre, RS 90010460, Brazil","Lucas Mussoi Almeida
+mailto:lucas.mussoi@ufrgs.br
+Fernanda Maria Müller
+mailto:fernanda.muller@ufrgs.br
+Marcelo Scherer Perlin
+mailto:marcelo.perlin@ufrgs.br
+1 Federal University of Rio Grande do Sul, Porto Alegre, RS 90010460, Brazil",,,,,,,
+4,WOS:001194900200001 (https://www.notion.so/WOS-001194900200001-10c0ee199b1d812da785e9a7e354ac72?pvs=21),Risk Forecasting Comparisons in Decentralized Finance: An Approach in Constant Product Market Makers,Fernanda Maria Müller,Brazil,https://www.researchgate.net/institution/Universidade_Federal_do_Rio_Grande_do_Sul?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InByb2ZpbGUiLCJwYWdlIjoicHJvZmlsZSJ9fQ (Finance),"Federal University of Rio Grande do Sul, Porto Alegre, RS 90010460, BrazilFederal University of Rio Grande do Sul, Porto Alegre, RS 90010460, Brazil","Lucas Mussoi Almeida
+lucas.mussoi@ufrgs.br
+Fernanda Maria Müller
+fernanda.muller@ufrgs.br
+Marcelo Scherer Perlin
+marcelo.perlin@ufrgs.br
+1 Federal University of Rio Grande do Sul, Porto Alegre, RS 90010460, Brazil",,,,,,,
+4,WOS:001194900200001 (https://www.notion.so/WOS-001194900200001-10c0ee199b1d812da785e9a7e354ac72?pvs=21),Risk Forecasting Comparisons in Decentralized Finance: An Approach in Constant Product Market Makers,"Marcelo Scherer Perlin ",Brazil,Finance,"Federal University of Rio Grande do Sul, Porto Alegre, RS 90010460, BrazilFederal University of Rio Grande do Sul, Porto Alegre, RS 90010460, Brazil","Lucas Mussoi Almeida
+lucas.mussoi@ufrgs.br
+Fernanda Maria Müller
+fernanda.muller@ufrgs.br
+Marcelo Scherer Perlin
+marcelo.perlin@ufrgs.br
+1 Federal University of Rio Grande do Sul, Porto Alegre, RS 90010460, Brazil",,,,,,,
+5,WOS:000407472100007 (https://www.notion.so/WOS-000407472100007-10c0ee199b1d8122a8aeea37d9b7ce75?pvs=21),Practical Bayesian support vector regression for financial time series prediction and market condition change detection,T. LAW∗,United Kingdom,Department of Computer Science,"Department of Computer Science, University College London, Gower Street, London WC1E 6BT, United Kingdom","T. LAW∗ and J. SHAWE-TAYLOR
+Department of Computer Science, University College London, Gower Street, London WC1E 6BT, United Kingdom",,,,,,,
+5,WOS:000407472100007 (https://www.notion.so/WOS-000407472100007-10c0ee199b1d8122a8aeea37d9b7ce75?pvs=21),Practical Bayesian support vector regression for financial time series prediction and market condition change detection," J. SHAWE-TAYLOR",United Kingdom,Department of Computer Science,"Department of Computer Science, University College London, Gower Street, London WC1E 6BT, United Kingdom","T. LAW∗ and J. SHAWE-TAYLOR
+Department of Computer Science, University College London, Gower Street, London WC1E 6BT, United Kingdom",,,,,,,
+6,WOS:000636288300001 (https://www.notion.so/WOS-000636288300001-10c0ee199b1d81a99f1cf2b62b46d0a2?pvs=21),Predictions of bitcoin prices through machine learning based frameworks,Luisianna Cocco,Italy,Department of Mathematics and Computer Science,"Department of Mathematics and Computer Science, University of Cagliari, Cagliari, Italy
+
+","Department of Mathematics and Computer Science, University of Cagliari, Cagliari, Italy
+
+",,,,,,,
+6,WOS:000636288300001 (https://www.notion.so/WOS-000636288300001-10c0ee199b1d81a99f1cf2b62b46d0a2?pvs=21),Predictions of bitcoin prices through machine learning based frameworks,Robert Tonelli,Italy,Department of Mathematics and Computer Science,"Department of Mathematics and Computer Science, University of Cagliari, Cagliari, Italy
+
+","Department of Mathematics and Computer Science, University of Cagliari, Cagliari, Italy
+
+",,,,,,,
+6,WOS:000636288300001 (https://www.notion.so/WOS-000636288300001-10c0ee199b1d81a99f1cf2b62b46d0a2?pvs=21),Predictions of bitcoin prices through machine learning based frameworks,Michele Marchesi,Italy,Department of Mathematics and Computer Science,"Department of Mathematics and Computer Science, University of Cagliari, Cagliari, Italy
+
+","Department of Mathematics and Computer Science, University of Cagliari, Cagliari, Italy
+
+",,,,,,,
+7,WOS:000937700000001 (https://www.notion.so/WOS-000937700000001-10c0ee199b1d816c987fcb923ab786cb?pvs=21),Bayesian bilinear neural network for predicting the mid-price dynamics in limit-order book markets,Martin Magris,Denmark,"Department of Electrical and Computer
+Engineering","Martin Magris, Aarhus University,
+Department of Electrical and Computer
+Engineering, Finlandsgade 22, Aarhus
+8200, Denmark.","Martin Magris | Mostafa Shabani | Alexandros Iosifidis
+Department of Electrical and Computer
+Engineering, Aarhus University, Aarhus,
+Denmark",,,,,,,
+7,WOS:000937700000001 (https://www.notion.so/WOS-000937700000001-10c0ee199b1d816c987fcb923ab786cb?pvs=21),Bayesian bilinear neural network for predicting the mid-price dynamics in limit-order book markets,Mostafa Shabani,Denmark,"Department of Electrical and Computer
+Engineering","Martin Magris, Aarhus University,
+Department of Electrical and Computer
+Engineering, Finlandsgade 22, Aarhus
+8200, Denmark.Martin Magris, Aarhus University,
+Department of Electrical and Computer
+Engineering, Finlandsgade 22, Aarhus
+8200, Denmark.","Martin Magris | Mostafa Shabani | Alexandros Iosifidis
+Department of Electrical and Computer
+Engineering, Aarhus University, Aarhus,
+Denmark",,,,,,,
+7,WOS:000937700000001 (https://www.notion.so/WOS-000937700000001-10c0ee199b1d816c987fcb923ab786cb?pvs=21),Bayesian bilinear neural network for predicting the mid-price dynamics in limit-order book markets,Alexandros Iosifidis,Denmark,"Department of Electrical and Computer
+Engineering","Martin Magris, Aarhus University,
+Department of Electrical and Computer
+Engineering, Finlandsgade 22, Aarhus
+8200, Denmark.","Martin Magris | Mostafa Shabani | Alexandros Iosifidis
+Department of Electrical and Computer
+Engineering, Aarhus University, Aarhus,
+Denmark",,,,,,,
+8,WOS:000863319300002 (https://www.notion.so/WOS-000863319300002-10c0ee199b1d81aaa35dd9c7766e8ec9?pvs=21),"Time-series forecasting using manifold learning, radial basis function interpolation, and geometric harmonics",Panagiotis G. Papaioannou,Italy,Dipartimento di Matematica e Applicazioni,"Dipartimento di Matematica e Applicazioni “Renato Caccioppoli,” Università degli Studi di Napoli Federico II, Naples 80126, Italy","Panagiotis G. Papaioannou,1 Ronen Talmon,2
+Ioannis G. Kevrekidis,3 and Constantinos Siettos4,a)
+AFFILIATIONS
+1Dipartimento di Matematica e Applicazioni “Renato Caccioppoli,” Università degli Studi di Napoli Federico II, Naples 80126, Italy
+2Viterbi Faculty of Electrical and Computer Engineering, Technion, Israel Institute of Technology, Haifa 3200003, Israel
+3Department of Chemical and Biomolecular Engineering, Department of Applied Mathematics and Statistics,
+and the School of Medicine, Johns Hopkins University, Baltimore, Maryland 21218, USA
+4Dipartimento di Matematica e Applicazioni “Renato Caccioppoli” and Scuola Superiore Meridionale,
+Università degli Studi di Napoli Federico II, Naples 80126, Italy",,,,,,,
+8,WOS:000863319300002 (https://www.notion.so/WOS-000863319300002-10c0ee199b1d81aaa35dd9c7766e8ec9?pvs=21),"Time-series forecasting using manifold learning, radial basis function interpolation, and geometric harmonics",Ronen Talmon,Israel,Viterbi Faculty of Electrical and Computer Engineering,"Viterbi Faculty of Electrical and Computer Engineering, Technion, Israel Institute of Technology, Haifa 3200003, Israel
+","Panagiotis G. Papaioannou,1 Ronen Talmon,2
+Ioannis G. Kevrekidis,3 and Constantinos Siettos4,a)
+AFFILIATIONS
+1Dipartimento di Matematica e Applicazioni “Renato Caccioppoli,” Università degli Studi di Napoli Federico II, Naples 80126, Italy
+2Viterbi Faculty of Electrical and Computer Engineering, Technion, Israel Institute of Technology, Haifa 3200003, Israel
+3Department of Chemical and Biomolecular Engineering, Department of Applied Mathematics and Statistics,
+and the School of Medicine, Johns Hopkins University, Baltimore, Maryland 21218, USA
+4Dipartimento di Matematica e Applicazioni “Renato Caccioppoli” and Scuola Superiore Meridionale,
+Università degli Studi di Napoli Federico II, Naples 80126, Italy",,,,,,,
+8,WOS:000863319300002 (https://www.notion.so/WOS-000863319300002-10c0ee199b1d81aaa35dd9c7766e8ec9?pvs=21),"Time-series forecasting using manifold learning, radial basis function interpolation, and geometric harmonics","Ioannis G. Kevrekidis,",USA,Department of Applied Mathematics and Statistics,"Department of Chemical and Biomolecular Engineering, Department of Applied Mathematics and Statistics,
+and the School of Medicine, Johns Hopkins University, Baltimore, Maryland 21218, USA","Panagiotis G. Papaioannou,1 Ronen Talmon,2
+Ioannis G. Kevrekidis,3 and Constantinos Siettos4,a)
+AFFILIATIONS
+1Dipartimento di Matematica e Applicazioni “Renato Caccioppoli,” Università degli Studi di Napoli Federico II, Naples 80126, Italy
+2Viterbi Faculty of Electrical and Computer Engineering, Technion, Israel Institute of Technology, Haifa 3200003, Israel
+3Department of Chemical and Biomolecular Engineering, Department of Applied Mathematics and Statistics,
+and the School of Medicine, Johns Hopkins University, Baltimore, Maryland 21218, USA
+4Dipartimento di Matematica e Applicazioni “Renato Caccioppoli” and Scuola Superiore Meridionale,
+Università degli Studi di Napoli Federico II, Naples 80126, Italy",,Department of Chemical and Biomolecular Engineering,,,,,
+8,WOS:000863319300002 (https://www.notion.so/WOS-000863319300002-10c0ee199b1d81aaa35dd9c7766e8ec9?pvs=21),"Time-series forecasting using manifold learning, radial basis function interpolation, and geometric harmonics",Constantinos Siettos,Italy,Dipartimento di Matematica e Applicazioni,"Dipartimento di Matematica e Applicazioni “Renato Caccioppoli” and Scuola Superiore Meridionale,
+Università degli Studi di Napoli Federico II, Naples 80126, Italy","Panagiotis G. Papaioannou,1 Ronen Talmon,2
+Ioannis G. Kevrekidis,3 and Constantinos Siettos4,a)
+AFFILIATIONS
+1Dipartimento di Matematica e Applicazioni “Renato Caccioppoli,” Università degli Studi di Napoli Federico II, Naples 80126, Italy
+2Viterbi Faculty of Electrical and Computer Engineering, Technion, Israel Institute of Technology, Haifa 3200003, Israel
+3Department of Chemical and Biomolecular Engineering, Department of Applied Mathematics and Statistics,
+and the School of Medicine, Johns Hopkins University, Baltimore, Maryland 21218, USA
+4Dipartimento di Matematica e Applicazioni “Renato Caccioppoli” and Scuola Superiore Meridionale,
+Università degli Studi di Napoli Federico II, Naples 80126, Italy",,,,,,,
+9,10.1007/s00521-024-09916-3 (https://www.notion.so/10-1007-s00521-024-09916-3-10c0ee199b1d811d8f93c2f5c2036ac4?pvs=21),DeepAR-Attention probabilistic prediction for stock price series,Jiacheng Li,China,School of Electronic and Information Engineering,"School of Electronic and Information Engineering, South
+China University of Technology,
+Guangzhou 510640, Guangdong province, China","Delu Zeng
+mailto:dlzeng@scut.edu.cn
+Jiacheng Li
+mailto:eejiacheng_li@mail.scut.edu.cn
+Wei Chen
+mailto:maweichen@mail.scut.edu.cn
+Zhiheng Zhou
+mailto:zhouzh@scut.edu.cn
+Junmei Yang
+mailto:yjunmei@scut.edu.cn
+1 School of Electronic and Information Engineering, South
+China University of Technology,
+Guangzhou 510640, Guangdong province, China
+2 School of Mathematics, South China University of
+Technology, Guangzhou 510640, Guangdong province,
+China",,,,,,,
+9,10.1007/s00521-024-09916-3 (https://www.notion.so/10-1007-s00521-024-09916-3-10c0ee199b1d811d8f93c2f5c2036ac4?pvs=21),DeepAR-Attention probabilistic prediction for stock price series,Wei Chen,China,School of Mathematics,"School of Mathematics, South China University of
+Technology, Guangzhou 510640, Guangdong province,
+China","Delu Zeng
+mailto:dlzeng@scut.edu.cn
+Jiacheng Li
+mailto:eejiacheng_li@mail.scut.edu.cn
+Wei Chen
+mailto:maweichen@mail.scut.edu.cn
+Zhiheng Zhou
+mailto:zhouzh@scut.edu.cn
+Junmei Yang
+mailto:yjunmei@scut.edu.cn
+1 School of Electronic and Information Engineering, South
+China University of Technology,
+Guangzhou 510640, Guangdong province, China
+2 School of Mathematics, South China University of
+Technology, Guangzhou 510640, Guangdong province,
+China",,,,,,,
+9,10.1007/s00521-024-09916-3 (https://www.notion.so/10-1007-s00521-024-09916-3-10c0ee199b1d811d8f93c2f5c2036ac4?pvs=21),DeepAR-Attention probabilistic prediction for stock price series,Zhiheng Zhou,China,School of Electronic and Information Engineering,"School of Electronic and Information Engineering, South
+China University of Technology,
+Guangzhou 510640, Guangdong province, China","Delu Zeng
+mailto:dlzeng@scut.edu.cn
+Jiacheng Li
+mailto:eejiacheng_li@mail.scut.edu.cn
+Wei Chen
+mailto:maweichen@mail.scut.edu.cn
+Zhiheng Zhou
+mailto:zhouzh@scut.edu.cn
+Junmei Yang
+mailto:yjunmei@scut.edu.cn
+1 School of Electronic and Information Engineering, South
+China University of Technology,
+Guangzhou 510640, Guangdong province, China
+2 School of Mathematics, South China University of
+Technology, Guangzhou 510640, Guangdong province,
+China",,,,,,,
+9,10.1007/s00521-024-09916-3 (https://www.notion.so/10-1007-s00521-024-09916-3-10c0ee199b1d811d8f93c2f5c2036ac4?pvs=21),DeepAR-Attention probabilistic prediction for stock price series,Junmei Yang,China,School of Electronic and Information Engineering,"School of Electronic and Information Engineering, South
+China University of Technology,
+Guangzhou 510640, Guangdong province, China","Delu Zeng
+mailto:dlzeng@scut.edu.cn
+Jiacheng Li
+mailto:eejiacheng_li@mail.scut.edu.cn
+Wei Chen
+mailto:maweichen@mail.scut.edu.cn
+Zhiheng Zhou
+mailto:zhouzh@scut.edu.cn
+Junmei Yang
+mailto:yjunmei@scut.edu.cn
+1 School of Electronic and Information Engineering, South
+China University of Technology,
+Guangzhou 510640, Guangdong province, China
+2 School of Mathematics, South China University of
+Technology, Guangzhou 510640, Guangdong province,
+China",,,,,,,
+9,10.1007/s00521-024-09916-3 (https://www.notion.so/10-1007-s00521-024-09916-3-10c0ee199b1d811d8f93c2f5c2036ac4?pvs=21),DeepAR-Attention probabilistic prediction for stock price series,Delu Zeng,China,School of Electronic and Information Engineering,"School of Electronic and Information Engineering, South
+China University of Technology,
+Guangzhou 510640, Guangdong province, China","Delu Zeng
+mailto:dlzeng@scut.edu.cn
+Jiacheng Li
+mailto:eejiacheng_li@mail.scut.edu.cn
+Wei Chen
+mailto:maweichen@mail.scut.edu.cn
+Zhiheng Zhou
+mailto:zhouzh@scut.edu.cn
+Junmei Yang
+mailto:yjunmei@scut.edu.cn
+1 School of Electronic and Information Engineering, South
+China University of Technology,
+Guangzhou 510640, Guangdong province, China
+2 School of Mathematics, South China University of
+Technology, Guangzhou 510640, Guangdong province,
+China",,,,,,,
+10,10.1016/j.neucom.2021.03.111 (https://www.notion.so/10-1016-j-neucom-2021-03-111-10c0ee199b1d8120a5a2dc45a0b28239?pvs=21),Recurrent dictionary learning for state-space models with an application in stock forecasting,Shalini Sharma,India,Indraprastha Institute of Information Technology,"Indraprastha Institute of Information Technology, Delhi, India","Shalini Sharma a,⇑
+, Víctor Elvira d
+, Emilie Chouzenoux c
+, Angshul Majumdar a,b
+a Indraprastha Institute of Information Technology, Delhi, India
+b TCS Research, Kolkata, India
+cUniversité Paris-Saclay, CentraleSupélec, Inria, CVN, Gif-sur-Yvette, France
+d School of Mathematics, University of Edinburgh, Edinburgh, United Kingdom",,,,,,,
+10,10.1016/j.neucom.2021.03.111 (https://www.notion.so/10-1016-j-neucom-2021-03-111-10c0ee199b1d8120a5a2dc45a0b28239?pvs=21),Recurrent dictionary learning for state-space models with an application in stock forecasting,Víctor Elvira,United Kingdom,School of Mathematics," School of Mathematics, University of Edinburgh, Edinburgh, United Kingdom","Shalini Sharma a,⇑
+, Víctor Elvira d
+, Emilie Chouzenoux c
+, Angshul Majumdar a,b
+a Indraprastha Institute of Information Technology, Delhi, India
+b TCS Research, Kolkata, India
+cUniversité Paris-Saclay, CentraleSupélec, Inria, CVN, Gif-sur-Yvette, France
+d School of Mathematics, University of Edinburgh, Edinburgh, United Kingdom",,,,,,,
+10,10.1016/j.neucom.2021.03.111 (https://www.notion.so/10-1016-j-neucom-2021-03-111-10c0ee199b1d8120a5a2dc45a0b28239?pvs=21),Recurrent dictionary learning for state-space models with an application in stock forecasting,Emilie Chouzenoux,France,mathematics and computer science (digital vision),"Université Paris-Saclay, CentraleSupélec, Inria, CVN, Gif-sur-Yvette, France","Shalini Sharma a,⇑
+, Víctor Elvira d
+, Emilie Chouzenoux c
+, Angshul Majumdar a,b
+a Indraprastha Institute of Information Technology, Delhi, India
+b TCS Research, Kolkata, India
+cUniversité Paris-Saclay, CentraleSupélec, Inria, CVN, Gif-sur-Yvette, France
+d School of Mathematics, University of Edinburgh, Edinburgh, United Kingdom",,,,,,,
+10,10.1016/j.neucom.2021.03.111 (https://www.notion.so/10-1016-j-neucom-2021-03-111-10c0ee199b1d8120a5a2dc45a0b28239?pvs=21),Recurrent dictionary learning for state-space models with an application in stock forecasting,Angshul Majumdar,India,Indraprastha Institute of Information Technology,"Indraprastha Institute of Information Technology, Delhi, India","Shalini Sharma a,⇑
+, Víctor Elvira d
+, Emilie Chouzenoux c
+, Angshul Majumdar a,b
+a Indraprastha Institute of Information Technology, Delhi, India
+b TCS Research, Kolkata, India
+cUniversité Paris-Saclay, CentraleSupélec, Inria, CVN, Gif-sur-Yvette, France
+d School of Mathematics, University of Edinburgh, Edinburgh, United Kingdom",,"TCS Research, Kolkata, India",,,,,
+11,10.1002/sta4.70001 (https://www.notion.so/10-1002-sta4-70001-10c0ee199b1d817fa9facf8a269106d6?pvs=21),Bitcoin Price Prediction Using Deep Bayesian LSTM With Uncertainty Quantification: A Monte Carlo Dropout–Based Approach,"Masoud Muhammed Hassan
+",Iraq,Department of Computer Science,"Department of Computer Science, College of Science, University of Zakho, Zakho, Kurdistan Region, Iraq","Masoud Muhammed Hassan
+Department of Computer Science, College of Science, University of Zakho, Zakho, Kurdistan Region, Iraq",,,,,,,
+12,WOS:000737351200001 (https://www.notion.so/WOS-000737351200001-1200ee199b1d8125b653d0fd464a80cf?pvs=21),Predicting Volatility Index According to Technical Index and Economic Indicators on the Basis of Deep Learning Algorithm,Sara Mehrab Daniali,Russia,Graduate School of Service and Trade,"Graduate School of Service and Trade, Peter the Great St. Petersburg Polytechnic University,
+195251 St. Petersburg, Russia; mailto:ivk65@list.ru","Sara Mehrab Daniali 1,* , Sergey Evgenievich Barykin 1,* , Irina Vasilievna Kapustina 1
+,
+Farzin Mohammadbeigi Khortabi 2
+, Sergey Mikhailovich Sergeev 3
+, Olga Vladimirovna Kalinina 3
+,
+Alexey Mikhaylov 4
+, Roman Veynberg 5
+, Liubov Zasova 6 and Tomonobu Senjyu 7
+
+
+Citation: Daniali, S.M.; Barykin, S.E.;
+Kapustina, I.V.; Mohammadbeigi
+Khortabi, F.; Sergeev, S.M.; Kalinina,
+O.V.; Mikhaylov, A.; Veynberg, R.;
+Zasova, L.; Senjyu, T. Predicting
+Volatility Index According to
+Technical Index and Economic
+Indicators on the Basis of Deep
+Learning Algorithm. Sustainability
+2021, 13, 14011. https://doi.org/
+10.3390/su132414011
+Academic Editors: Fernando García,
+Jairo González-Bueno and
+Klaus Reiner Schenk-Hoppé
+Received: 27 October 2021
+Accepted: 16 December 2021
+Published: 19 December 2021
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional affiliations.
+Copyright: © 2021 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+http://creativecommons.org/licenses/by/
+4.0/).
+1 Graduate School of Service and Trade, Peter the Great St. Petersburg Polytechnic University,
+195251 St. Petersburg, Russia; mailto:ivk65@list.ru
+2
+Institute of Industrial Management, State University of Management, 109542 Moscow, Russia;
+mailto:f_b258@yahoo.com
+3 Graduate School of Industrial Management, Peter the Great St. Petersburg Polytechnic University,
+195251 St. Petersburg, Russia; mailto:sergeev2@yandex.ru (S.M.S.); mailto:olgakalinina@bk.ru (O.V.K.)
+4 Department of Banking and Financial Markets, Financial University under the Government of the Russian
+Federation, 124167 Moscow, Russia; mailto:alexeyfa@ya.ru
+5 Computer Science Department, Plekhanov Russian University of Economics, 117997 Moscow, Russia;
+mailto:romanveinberg@ya.ru
+6 Department of Economics and Management, Sechenov University, 119991 Moscow, Russia; mailto:aalmakul@ya.ru
+7 Department of Electrical and Electronics Engineering, University of the Ryukyus, Okinawa 903-0213, Japan;
+mailto:b985542@tec.u-ryukyu.ac.jp
+* Correspondence: mailto:sara_danial64@yahoo.com (S.M.D.); mailto:sbe@list.ru (S.E.B.)",,,,,,,
+12,WOS:000737351200001 (https://www.notion.so/WOS-000737351200001-1200ee199b1d8125b653d0fd464a80cf?pvs=21),Predicting Volatility Index According to Technical Index and Economic Indicators on the Basis of Deep Learning Algorithm,Sergey Evgenievich Barykin,Russia,Graduate School of Service and Trade,"Graduate School of Service and Trade, Peter the Great St. Petersburg Polytechnic University,
+195251 St. Petersburg, Russia; mailto:ivk65@list.ruGraduate School of Service and Trade, Peter the Great St. Petersburg Polytechnic University,
+195251 St. Petersburg, Russia; ivk65@list.ru","Sara Mehrab Daniali 1,* , Sergey Evgenievich Barykin 1,* , Irina Vasilievna Kapustina 1
+,
+Farzin Mohammadbeigi Khortabi 2
+, Sergey Mikhailovich Sergeev 3
+, Olga Vladimirovna Kalinina 3
+,
+Alexey Mikhaylov 4
+, Roman Veynberg 5
+, Liubov Zasova 6 and Tomonobu Senjyu 7
+
+
+Citation: Daniali, S.M.; Barykin, S.E.;
+Kapustina, I.V.; Mohammadbeigi
+Khortabi, F.; Sergeev, S.M.; Kalinina,
+O.V.; Mikhaylov, A.; Veynberg, R.;
+Zasova, L.; Senjyu, T. Predicting
+Volatility Index According to
+Technical Index and Economic
+Indicators on the Basis of Deep
+Learning Algorithm. Sustainability
+2021, 13, 14011. https://doi.org/
+10.3390/su132414011
+Academic Editors: Fernando García,
+Jairo González-Bueno and
+Klaus Reiner Schenk-Hoppé
+Received: 27 October 2021
+Accepted: 16 December 2021
+Published: 19 December 2021
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional affiliations.
+Copyright: © 2021 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+http://creativecommons.org/licenses/by/
+4.0/).
+1 Graduate School of Service and Trade, Peter the Great St. Petersburg Polytechnic University,
+195251 St. Petersburg, Russia; mailto:ivk65@list.ru
+2
+Institute of Industrial Management, State University of Management, 109542 Moscow, Russia;
+mailto:f_b258@yahoo.com
+3 Graduate School of Industrial Management, Peter the Great St. Petersburg Polytechnic University,
+195251 St. Petersburg, Russia; mailto:sergeev2@yandex.ru (S.M.S.); mailto:olgakalinina@bk.ru (O.V.K.)
+4 Department of Banking and Financial Markets, Financial University under the Government of the Russian
+Federation, 124167 Moscow, Russia; mailto:alexeyfa@ya.ru
+5 Computer Science Department, Plekhanov Russian University of Economics, 117997 Moscow, Russia;
+mailto:romanveinberg@ya.ru
+6 Department of Economics and Management, Sechenov University, 119991 Moscow, Russia; mailto:aalmakul@ya.ru
+7 Department of Electrical and Electronics Engineering, University of the Ryukyus, Okinawa 903-0213, Japan;
+mailto:b985542@tec.u-ryukyu.ac.jp
+* Correspondence: mailto:sara_danial64@yahoo.com (S.M.D.); mailto:sbe@list.ru (S.E.B.)",,,,,,,
+12,WOS:000737351200001 (https://www.notion.so/WOS-000737351200001-1200ee199b1d8125b653d0fd464a80cf?pvs=21),Predicting Volatility Index According to Technical Index and Economic Indicators on the Basis of Deep Learning Algorithm,Irina Vasilievna Kapustina,Russia,Graduate School of Service and Trade,"Graduate School of Service and Trade, Peter the Great St. Petersburg Polytechnic University,
+195251 St. Petersburg, Russia; ivk65@list.ru","Sara Mehrab Daniali 1,* , Sergey Evgenievich Barykin 1,* , Irina Vasilievna Kapustina 1
+,
+Farzin Mohammadbeigi Khortabi 2
+, Sergey Mikhailovich Sergeev 3
+, Olga Vladimirovna Kalinina 3
+,
+Alexey Mikhaylov 4
+, Roman Veynberg 5
+, Liubov Zasova 6 and Tomonobu Senjyu 7
+
+
+Citation: Daniali, S.M.; Barykin, S.E.;
+Kapustina, I.V.; Mohammadbeigi
+Khortabi, F.; Sergeev, S.M.; Kalinina,
+O.V.; Mikhaylov, A.; Veynberg, R.;
+Zasova, L.; Senjyu, T. Predicting
+Volatility Index According to
+Technical Index and Economic
+Indicators on the Basis of Deep
+Learning Algorithm. Sustainability
+2021, 13, 14011. https://doi.org/
+10.3390/su132414011
+Academic Editors: Fernando García,
+Jairo González-Bueno and
+Klaus Reiner Schenk-Hoppé
+Received: 27 October 2021
+Accepted: 16 December 2021
+Published: 19 December 2021
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional affiliations.
+Copyright: © 2021 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+http://creativecommons.org/licenses/by/
+4.0/).
+1 Graduate School of Service and Trade, Peter the Great St. Petersburg Polytechnic University,
+195251 St. Petersburg, Russia; mailto:ivk65@list.ru
+2
+Institute of Industrial Management, State University of Management, 109542 Moscow, Russia;
+mailto:f_b258@yahoo.com
+3 Graduate School of Industrial Management, Peter the Great St. Petersburg Polytechnic University,
+195251 St. Petersburg, Russia; mailto:sergeev2@yandex.ru (S.M.S.); mailto:olgakalinina@bk.ru (O.V.K.)
+4 Department of Banking and Financial Markets, Financial University under the Government of the Russian
+Federation, 124167 Moscow, Russia; mailto:alexeyfa@ya.ru
+5 Computer Science Department, Plekhanov Russian University of Economics, 117997 Moscow, Russia;
+mailto:romanveinberg@ya.ru
+6 Department of Economics and Management, Sechenov University, 119991 Moscow, Russia; mailto:aalmakul@ya.ru
+7 Department of Electrical and Electronics Engineering, University of the Ryukyus, Okinawa 903-0213, Japan;
+mailto:b985542@tec.u-ryukyu.ac.jp
+* Correspondence: mailto:sara_danial64@yahoo.com (S.M.D.); mailto:sbe@list.ru (S.E.B.)",,,,,,,
+12,WOS:000737351200001 (https://www.notion.so/WOS-000737351200001-1200ee199b1d8125b653d0fd464a80cf?pvs=21),Predicting Volatility Index According to Technical Index and Economic Indicators on the Basis of Deep Learning Algorithm,Farzin Mohammadbeigi Khortabi,Russia,Institute of Industrial Management,"Institute of Industrial Management, State University of Management, 109542 Moscow, Russia;
+mailto:f_b258@yahoo.com","Sara Mehrab Daniali 1,* , Sergey Evgenievich Barykin 1,* , Irina Vasilievna Kapustina 1
+,
+Farzin Mohammadbeigi Khortabi 2
+, Sergey Mikhailovich Sergeev 3
+, Olga Vladimirovna Kalinina 3
+,
+Alexey Mikhaylov 4
+, Roman Veynberg 5
+, Liubov Zasova 6 and Tomonobu Senjyu 7
+
+
+Citation: Daniali, S.M.; Barykin, S.E.;
+Kapustina, I.V.; Mohammadbeigi
+Khortabi, F.; Sergeev, S.M.; Kalinina,
+O.V.; Mikhaylov, A.; Veynberg, R.;
+Zasova, L.; Senjyu, T. Predicting
+Volatility Index According to
+Technical Index and Economic
+Indicators on the Basis of Deep
+Learning Algorithm. Sustainability
+2021, 13, 14011. https://doi.org/
+10.3390/su132414011
+Academic Editors: Fernando García,
+Jairo González-Bueno and
+Klaus Reiner Schenk-Hoppé
+Received: 27 October 2021
+Accepted: 16 December 2021
+Published: 19 December 2021
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional affiliations.
+Copyright: © 2021 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+http://creativecommons.org/licenses/by/
+4.0/).
+1 Graduate School of Service and Trade, Peter the Great St. Petersburg Polytechnic University,
+195251 St. Petersburg, Russia; mailto:ivk65@list.ru
+2
+Institute of Industrial Management, State University of Management, 109542 Moscow, Russia;
+mailto:f_b258@yahoo.com
+3 Graduate School of Industrial Management, Peter the Great St. Petersburg Polytechnic University,
+195251 St. Petersburg, Russia; mailto:sergeev2@yandex.ru (S.M.S.); mailto:olgakalinina@bk.ru (O.V.K.)
+4 Department of Banking and Financial Markets, Financial University under the Government of the Russian
+Federation, 124167 Moscow, Russia; mailto:alexeyfa@ya.ru
+5 Computer Science Department, Plekhanov Russian University of Economics, 117997 Moscow, Russia;
+mailto:romanveinberg@ya.ru
+6 Department of Economics and Management, Sechenov University, 119991 Moscow, Russia; mailto:aalmakul@ya.ru
+7 Department of Electrical and Electronics Engineering, University of the Ryukyus, Okinawa 903-0213, Japan;
+mailto:b985542@tec.u-ryukyu.ac.jp
+* Correspondence: mailto:sara_danial64@yahoo.com (S.M.D.); mailto:sbe@list.ru (S.E.B.)",,,,,,,
+12,WOS:000737351200001 (https://www.notion.so/WOS-000737351200001-1200ee199b1d8125b653d0fd464a80cf?pvs=21),Predicting Volatility Index According to Technical Index and Economic Indicators on the Basis of Deep Learning Algorithm,Sergey Mikhailovich Sergeev,Russia,Graduate School of Industrial Management,"Graduate School of Industrial Management, Peter the Great St. Petersburg Polytechnic University,
+195251 St. Petersburg, Russia; mailto:sergeev2@yandex.ru (S.M.S.); mailto:olgakalinina@bk.ru (O.V.K.)","Sara Mehrab Daniali 1,* , Sergey Evgenievich Barykin 1,* , Irina Vasilievna Kapustina 1
+,
+Farzin Mohammadbeigi Khortabi 2
+, Sergey Mikhailovich Sergeev 3
+, Olga Vladimirovna Kalinina 3
+,
+Alexey Mikhaylov 4
+, Roman Veynberg 5
+, Liubov Zasova 6 and Tomonobu Senjyu 7
+
+
+Citation: Daniali, S.M.; Barykin, S.E.;
+Kapustina, I.V.; Mohammadbeigi
+Khortabi, F.; Sergeev, S.M.; Kalinina,
+O.V.; Mikhaylov, A.; Veynberg, R.;
+Zasova, L.; Senjyu, T. Predicting
+Volatility Index According to
+Technical Index and Economic
+Indicators on the Basis of Deep
+Learning Algorithm. Sustainability
+2021, 13, 14011. https://doi.org/
+10.3390/su132414011
+Academic Editors: Fernando García,
+Jairo González-Bueno and
+Klaus Reiner Schenk-Hoppé
+Received: 27 October 2021
+Accepted: 16 December 2021
+Published: 19 December 2021
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional affiliations.
+Copyright: © 2021 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+http://creativecommons.org/licenses/by/
+4.0/).
+1 Graduate School of Service and Trade, Peter the Great St. Petersburg Polytechnic University,
+195251 St. Petersburg, Russia; mailto:ivk65@list.ru
+2
+Institute of Industrial Management, State University of Management, 109542 Moscow, Russia;
+mailto:f_b258@yahoo.com
+3 Graduate School of Industrial Management, Peter the Great St. Petersburg Polytechnic University,
+195251 St. Petersburg, Russia; mailto:sergeev2@yandex.ru (S.M.S.); mailto:olgakalinina@bk.ru (O.V.K.)
+4 Department of Banking and Financial Markets, Financial University under the Government of the Russian
+Federation, 124167 Moscow, Russia; mailto:alexeyfa@ya.ru
+5 Computer Science Department, Plekhanov Russian University of Economics, 117997 Moscow, Russia;
+mailto:romanveinberg@ya.ru
+6 Department of Economics and Management, Sechenov University, 119991 Moscow, Russia; mailto:aalmakul@ya.ru
+7 Department of Electrical and Electronics Engineering, University of the Ryukyus, Okinawa 903-0213, Japan;
+mailto:b985542@tec.u-ryukyu.ac.jp
+* Correspondence: mailto:sara_danial64@yahoo.com (S.M.D.); mailto:sbe@list.ru (S.E.B.)",,,,,,,
+12,WOS:000737351200001 (https://www.notion.so/WOS-000737351200001-1200ee199b1d8125b653d0fd464a80cf?pvs=21),Predicting Volatility Index According to Technical Index and Economic Indicators on the Basis of Deep Learning Algorithm,Olga Vladimirovna Kalinina,Russia,Graduate School of Industrial Management,"Graduate School of Industrial Management, Peter the Great St. Petersburg Polytechnic University,
+195251 St. Petersburg, Russia; mailto:sergeev2@yandex.ru (S.M.S.); mailto:olgakalinina@bk.ru (O.V.K.)","Sara Mehrab Daniali 1,* , Sergey Evgenievich Barykin 1,* , Irina Vasilievna Kapustina 1
+,
+Farzin Mohammadbeigi Khortabi 2
+, Sergey Mikhailovich Sergeev 3
+, Olga Vladimirovna Kalinina 3
+,
+Alexey Mikhaylov 4
+, Roman Veynberg 5
+, Liubov Zasova 6 and Tomonobu Senjyu 7
+
+
+Citation: Daniali, S.M.; Barykin, S.E.;
+Kapustina, I.V.; Mohammadbeigi
+Khortabi, F.; Sergeev, S.M.; Kalinina,
+O.V.; Mikhaylov, A.; Veynberg, R.;
+Zasova, L.; Senjyu, T. Predicting
+Volatility Index According to
+Technical Index and Economic
+Indicators on the Basis of Deep
+Learning Algorithm. Sustainability
+2021, 13, 14011. https://doi.org/
+10.3390/su132414011
+Academic Editors: Fernando García,
+Jairo González-Bueno and
+Klaus Reiner Schenk-Hoppé
+Received: 27 October 2021
+Accepted: 16 December 2021
+Published: 19 December 2021
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional affiliations.
+Copyright: © 2021 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+http://creativecommons.org/licenses/by/
+4.0/).
+1 Graduate School of Service and Trade, Peter the Great St. Petersburg Polytechnic University,
+195251 St. Petersburg, Russia; mailto:ivk65@list.ru
+2
+Institute of Industrial Management, State University of Management, 109542 Moscow, Russia;
+mailto:f_b258@yahoo.com
+3 Graduate School of Industrial Management, Peter the Great St. Petersburg Polytechnic University,
+195251 St. Petersburg, Russia; mailto:sergeev2@yandex.ru (S.M.S.); mailto:olgakalinina@bk.ru (O.V.K.)
+4 Department of Banking and Financial Markets, Financial University under the Government of the Russian
+Federation, 124167 Moscow, Russia; mailto:alexeyfa@ya.ru
+5 Computer Science Department, Plekhanov Russian University of Economics, 117997 Moscow, Russia;
+mailto:romanveinberg@ya.ru
+6 Department of Economics and Management, Sechenov University, 119991 Moscow, Russia; mailto:aalmakul@ya.ru
+7 Department of Electrical and Electronics Engineering, University of the Ryukyus, Okinawa 903-0213, Japan;
+mailto:b985542@tec.u-ryukyu.ac.jp
+* Correspondence: mailto:sara_danial64@yahoo.com (S.M.D.); mailto:sbe@list.ru (S.E.B.)",,,,,,,
+12,WOS:000737351200001 (https://www.notion.so/WOS-000737351200001-1200ee199b1d8125b653d0fd464a80cf?pvs=21),Predicting Volatility Index According to Technical Index and Economic Indicators on the Basis of Deep Learning Algorithm,Alexey Mikhaylov,Russia,Department of Banking and Financial Markets,"Department of Banking and Financial Markets, Financial University under the Government of the Russian
+Federation, 124167 Moscow, Russia; mailto:alexeyfa@ya.ru","Sara Mehrab Daniali 1,* , Sergey Evgenievich Barykin 1,* , Irina Vasilievna Kapustina 1
+,
+Farzin Mohammadbeigi Khortabi 2
+, Sergey Mikhailovich Sergeev 3
+, Olga Vladimirovna Kalinina 3
+,
+Alexey Mikhaylov 4
+, Roman Veynberg 5
+, Liubov Zasova 6 and Tomonobu Senjyu 7
+
+
+Citation: Daniali, S.M.; Barykin, S.E.;
+Kapustina, I.V.; Mohammadbeigi
+Khortabi, F.; Sergeev, S.M.; Kalinina,
+O.V.; Mikhaylov, A.; Veynberg, R.;
+Zasova, L.; Senjyu, T. Predicting
+Volatility Index According to
+Technical Index and Economic
+Indicators on the Basis of Deep
+Learning Algorithm. Sustainability
+2021, 13, 14011. https://doi.org/
+10.3390/su132414011
+Academic Editors: Fernando García,
+Jairo González-Bueno and
+Klaus Reiner Schenk-Hoppé
+Received: 27 October 2021
+Accepted: 16 December 2021
+Published: 19 December 2021
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional affiliations.
+Copyright: © 2021 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+http://creativecommons.org/licenses/by/
+4.0/).
+1 Graduate School of Service and Trade, Peter the Great St. Petersburg Polytechnic University,
+195251 St. Petersburg, Russia; mailto:ivk65@list.ru
+2
+Institute of Industrial Management, State University of Management, 109542 Moscow, Russia;
+mailto:f_b258@yahoo.com
+3 Graduate School of Industrial Management, Peter the Great St. Petersburg Polytechnic University,
+195251 St. Petersburg, Russia; mailto:sergeev2@yandex.ru (S.M.S.); mailto:olgakalinina@bk.ru (O.V.K.)
+4 Department of Banking and Financial Markets, Financial University under the Government of the Russian
+Federation, 124167 Moscow, Russia; mailto:alexeyfa@ya.ru
+5 Computer Science Department, Plekhanov Russian University of Economics, 117997 Moscow, Russia;
+mailto:romanveinberg@ya.ru
+6 Department of Economics and Management, Sechenov University, 119991 Moscow, Russia; mailto:aalmakul@ya.ru
+7 Department of Electrical and Electronics Engineering, University of the Ryukyus, Okinawa 903-0213, Japan;
+mailto:b985542@tec.u-ryukyu.ac.jp
+* Correspondence: mailto:sara_danial64@yahoo.com (S.M.D.); mailto:sbe@list.ru (S.E.B.)",,,,,,,
+12,WOS:000737351200001 (https://www.notion.so/WOS-000737351200001-1200ee199b1d8125b653d0fd464a80cf?pvs=21),Predicting Volatility Index According to Technical Index and Economic Indicators on the Basis of Deep Learning Algorithm,Roman Veynberg,Russia,Computer Science Department,"Computer Science Department, Plekhanov Russian University of Economics, 117997 Moscow, Russia;
+mailto:romanveinberg@ya.ru","Sara Mehrab Daniali 1,* , Sergey Evgenievich Barykin 1,* , Irina Vasilievna Kapustina 1
+,
+Farzin Mohammadbeigi Khortabi 2
+, Sergey Mikhailovich Sergeev 3
+, Olga Vladimirovna Kalinina 3
+,
+Alexey Mikhaylov 4
+, Roman Veynberg 5
+, Liubov Zasova 6 and Tomonobu Senjyu 7
+
+
+Citation: Daniali, S.M.; Barykin, S.E.;
+Kapustina, I.V.; Mohammadbeigi
+Khortabi, F.; Sergeev, S.M.; Kalinina,
+O.V.; Mikhaylov, A.; Veynberg, R.;
+Zasova, L.; Senjyu, T. Predicting
+Volatility Index According to
+Technical Index and Economic
+Indicators on the Basis of Deep
+Learning Algorithm. Sustainability
+2021, 13, 14011. https://doi.org/
+10.3390/su132414011
+Academic Editors: Fernando García,
+Jairo González-Bueno and
+Klaus Reiner Schenk-Hoppé
+Received: 27 October 2021
+Accepted: 16 December 2021
+Published: 19 December 2021
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional affiliations.
+Copyright: © 2021 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+http://creativecommons.org/licenses/by/
+4.0/).
+1 Graduate School of Service and Trade, Peter the Great St. Petersburg Polytechnic University,
+195251 St. Petersburg, Russia; mailto:ivk65@list.ru
+2
+Institute of Industrial Management, State University of Management, 109542 Moscow, Russia;
+mailto:f_b258@yahoo.com
+3 Graduate School of Industrial Management, Peter the Great St. Petersburg Polytechnic University,
+195251 St. Petersburg, Russia; mailto:sergeev2@yandex.ru (S.M.S.); mailto:olgakalinina@bk.ru (O.V.K.)
+4 Department of Banking and Financial Markets, Financial University under the Government of the Russian
+Federation, 124167 Moscow, Russia; mailto:alexeyfa@ya.ru
+5 Computer Science Department, Plekhanov Russian University of Economics, 117997 Moscow, Russia;
+mailto:romanveinberg@ya.ru
+6 Department of Economics and Management, Sechenov University, 119991 Moscow, Russia; mailto:aalmakul@ya.ru
+7 Department of Electrical and Electronics Engineering, University of the Ryukyus, Okinawa 903-0213, Japan;
+mailto:b985542@tec.u-ryukyu.ac.jp
+* Correspondence: mailto:sara_danial64@yahoo.com (S.M.D.); mailto:sbe@list.ru (S.E.B.)",,,,,,,
+12,WOS:000737351200001 (https://www.notion.so/WOS-000737351200001-1200ee199b1d8125b653d0fd464a80cf?pvs=21),Predicting Volatility Index According to Technical Index and Economic Indicators on the Basis of Deep Learning Algorithm,Liubov Zasova,Russia,Department of Economics and Management,"Department of Economics and Management, Sechenov University, 119991 Moscow, Russia; mailto:aalmakul@ya.ru","Sara Mehrab Daniali 1,* , Sergey Evgenievich Barykin 1,* , Irina Vasilievna Kapustina 1
+,
+Farzin Mohammadbeigi Khortabi 2
+, Sergey Mikhailovich Sergeev 3
+, Olga Vladimirovna Kalinina 3
+,
+Alexey Mikhaylov 4
+, Roman Veynberg 5
+, Liubov Zasova 6 and Tomonobu Senjyu 7
+
+
+Citation: Daniali, S.M.; Barykin, S.E.;
+Kapustina, I.V.; Mohammadbeigi
+Khortabi, F.; Sergeev, S.M.; Kalinina,
+O.V.; Mikhaylov, A.; Veynberg, R.;
+Zasova, L.; Senjyu, T. Predicting
+Volatility Index According to
+Technical Index and Economic
+Indicators on the Basis of Deep
+Learning Algorithm. Sustainability
+2021, 13, 14011. https://doi.org/
+10.3390/su132414011
+Academic Editors: Fernando García,
+Jairo González-Bueno and
+Klaus Reiner Schenk-Hoppé
+Received: 27 October 2021
+Accepted: 16 December 2021
+Published: 19 December 2021
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional affiliations.
+Copyright: © 2021 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+http://creativecommons.org/licenses/by/
+4.0/).
+1 Graduate School of Service and Trade, Peter the Great St. Petersburg Polytechnic University,
+195251 St. Petersburg, Russia; mailto:ivk65@list.ru
+2
+Institute of Industrial Management, State University of Management, 109542 Moscow, Russia;
+mailto:f_b258@yahoo.com
+3 Graduate School of Industrial Management, Peter the Great St. Petersburg Polytechnic University,
+195251 St. Petersburg, Russia; mailto:sergeev2@yandex.ru (S.M.S.); mailto:olgakalinina@bk.ru (O.V.K.)
+4 Department of Banking and Financial Markets, Financial University under the Government of the Russian
+Federation, 124167 Moscow, Russia; mailto:alexeyfa@ya.ru
+5 Computer Science Department, Plekhanov Russian University of Economics, 117997 Moscow, Russia;
+mailto:romanveinberg@ya.ru
+6 Department of Economics and Management, Sechenov University, 119991 Moscow, Russia; mailto:aalmakul@ya.ru
+7 Department of Electrical and Electronics Engineering, University of the Ryukyus, Okinawa 903-0213, Japan;
+mailto:b985542@tec.u-ryukyu.ac.jp
+* Correspondence: mailto:sara_danial64@yahoo.com (S.M.D.); mailto:sbe@list.ru (S.E.B.)",,,,,,,
+12,WOS:000737351200001 (https://www.notion.so/WOS-000737351200001-1200ee199b1d8125b653d0fd464a80cf?pvs=21),Predicting Volatility Index According to Technical Index and Economic Indicators on the Basis of Deep Learning Algorithm,Tomonobu Senjyu,Japan,Department of Electrical and Electronics Engineering,"Department of Electrical and Electronics Engineering, University of the Ryukyus, Okinawa 903-0213, Japan;
+mailto:b985542@tec.u-ryukyu.ac.jp","Sara Mehrab Daniali 1,* , Sergey Evgenievich Barykin 1,* , Irina Vasilievna Kapustina 1
+,
+Farzin Mohammadbeigi Khortabi 2
+, Sergey Mikhailovich Sergeev 3
+, Olga Vladimirovna Kalinina 3
+,
+Alexey Mikhaylov 4
+, Roman Veynberg 5
+, Liubov Zasova 6 and Tomonobu Senjyu 7
+
+
+Citation: Daniali, S.M.; Barykin, S.E.;
+Kapustina, I.V.; Mohammadbeigi
+Khortabi, F.; Sergeev, S.M.; Kalinina,
+O.V.; Mikhaylov, A.; Veynberg, R.;
+Zasova, L.; Senjyu, T. Predicting
+Volatility Index According to
+Technical Index and Economic
+Indicators on the Basis of Deep
+Learning Algorithm. Sustainability
+2021, 13, 14011. https://doi.org/
+10.3390/su132414011
+Academic Editors: Fernando García,
+Jairo González-Bueno and
+Klaus Reiner Schenk-Hoppé
+Received: 27 October 2021
+Accepted: 16 December 2021
+Published: 19 December 2021
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional affiliations.
+Copyright: © 2021 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+http://creativecommons.org/licenses/by/
+4.0/).
+1 Graduate School of Service and Trade, Peter the Great St. Petersburg Polytechnic University,
+195251 St. Petersburg, Russia; mailto:ivk65@list.ru
+2
+Institute of Industrial Management, State University of Management, 109542 Moscow, Russia;
+mailto:f_b258@yahoo.com
+3 Graduate School of Industrial Management, Peter the Great St. Petersburg Polytechnic University,
+195251 St. Petersburg, Russia; mailto:sergeev2@yandex.ru (S.M.S.); mailto:olgakalinina@bk.ru (O.V.K.)
+4 Department of Banking and Financial Markets, Financial University under the Government of the Russian
+Federation, 124167 Moscow, Russia; mailto:alexeyfa@ya.ru
+5 Computer Science Department, Plekhanov Russian University of Economics, 117997 Moscow, Russia;
+mailto:romanveinberg@ya.ru
+6 Department of Economics and Management, Sechenov University, 119991 Moscow, Russia; mailto:aalmakul@ya.ru
+7 Department of Electrical and Electronics Engineering, University of the Ryukyus, Okinawa 903-0213, Japan;
+mailto:b985542@tec.u-ryukyu.ac.jp
+* Correspondence: mailto:sara_danial64@yahoo.com (S.M.D.); mailto:sbe@list.ru (S.E.B.)",,,,,,,
+13,WOS:000873142500002 (https://www.notion.so/WOS-000873142500002-1130ee199b1d812486b0e6a7b4c09ea8?pvs=21),Encoded Value-at-Risk: A machine learning approach for portfolio risk measurement,Hamid Arian,Iran,Graduate School of Management and Economics,"RiskLab, GSME, Sharif University of Technology, Teymoori Sq, Tehran, 1459973941, Iran","Hamid Ariana,1,∗
+, Mehrdad Moghimib,2
+, Ehsan Tabatabaeic,3
+, Shiva Zamania,4
+a RiskLab, GSME, Sharif University of Technology, Teymoori Sq, Tehran, 1459973941, Iran
+b Department of Mathematics and Statistics, York University, 4700 Keele Street, Toronto, Ontario M3J 1P3, Canada
+c Khatam University, Hakim Azam, North Shiraz St, Mollasadra, Tehran, 1991633356, Iran",,,,,,,
+13,WOS:000873142500002 (https://www.notion.so/WOS-000873142500002-1130ee199b1d812486b0e6a7b4c09ea8?pvs=21),Encoded Value-at-Risk: A machine learning approach for portfolio risk measurement,Mehrdad Moghimi,Canada,Department of Mathematics and Statistics,"Department of Mathematics and Statistics, York University, 4700 Keele Street, Toronto, Ontario M3J 1P3, Canada","Hamid Ariana,1,∗
+, Mehrdad Moghimib,2
+, Ehsan Tabatabaeic,3
+, Shiva Zamania,4
+a RiskLab, GSME, Sharif University of Technology, Teymoori Sq, Tehran, 1459973941, Iran
+b Department of Mathematics and Statistics, York University, 4700 Keele Street, Toronto, Ontario M3J 1P3, Canada
+c Khatam University, Hakim Azam, North Shiraz St, Mollasadra, Tehran, 1991633356, Iran",,,,,,,
+13,WOS:000873142500002 (https://www.notion.so/WOS-000873142500002-1130ee199b1d812486b0e6a7b4c09ea8?pvs=21),Encoded Value-at-Risk: A machine learning approach for portfolio risk measurement,Ehsan Tabatabaei,Iran,Department of Finance,"Khatam University, Hakim Azam, North Shiraz St, Mollasadra, Tehran, 1991633356, Iran
+","Hamid Ariana,1,∗
+, Mehrdad Moghimib,2
+, Ehsan Tabatabaeic,3
+, Shiva Zamania,4
+a RiskLab, GSME, Sharif University of Technology, Teymoori Sq, Tehran, 1459973941, Iran
+b Department of Mathematics and Statistics, York University, 4700 Keele Street, Toronto, Ontario M3J 1P3, Canada
+c Khatam University, Hakim Azam, North Shiraz St, Mollasadra, Tehran, 1991633356, Iran",,,,,,,
+13,WOS:000873142500002 (https://www.notion.so/WOS-000873142500002-1130ee199b1d812486b0e6a7b4c09ea8?pvs=21),Encoded Value-at-Risk: A machine learning approach for portfolio risk measurement," Shiva Zamani",Iran,Graduate School of Management and Economics,"RiskLab, GSME, Sharif University of Technology, Teymoori Sq, Tehran, 1459973941, Iran","Hamid Ariana,1,∗
+, Mehrdad Moghimib,2
+, Ehsan Tabatabaeic,3
+, Shiva Zamania,4
+a RiskLab, GSME, Sharif University of Technology, Teymoori Sq, Tehran, 1459973941, Iran
+b Department of Mathematics and Statistics, York University, 4700 Keele Street, Toronto, Ontario M3J 1P3, Canada
+c Khatam University, Hakim Azam, North Shiraz St, Mollasadra, Tehran, 1991633356, Iran",,,,,,,
+14,WOS:000463062900004 (https://www.notion.so/WOS-000463062900004-1130ee199b1d81a2a7a5d942f8bf3a5a?pvs=21),Generative Bayesian neural network model for risk-neutral pricing of American index options,HUISU JANG,Korea,Department of Industrial Engineering,"Department of Industrial Engineering, Seoul National University, Seoul, South Korea","HUISU JANG and JAEWOOK LEE*
+Department of Industrial Engineering, Seoul National University, Seoul, South Korea",,,,,,,
+14,WOS:000463062900004 (https://www.notion.so/WOS-000463062900004-1130ee199b1d81a2a7a5d942f8bf3a5a?pvs=21),Generative Bayesian neural network model for risk-neutral pricing of American index options," JAEWOOK LEE",Korea,Department of Industrial Engineering,"Department of Industrial Engineering, Seoul National University, Seoul, South Korea","HUISU JANG and JAEWOOK LEE*
+Department of Industrial Engineering, Seoul National University, Seoul, South Korea",,,,,,,
+15,WOS:001097165900021 (https://www.notion.so/WOS-001097165900021-1130ee199b1d8199896ec71ce95d07aa?pvs=21),Exploiting Data Science for Measuring the Performance of Technology Stocks,Tahir Sher,Pakistan,Department of Creative Technologies,"Department of Creative Technologies, Air University, Islamabad, 44230, Pakistan","Tahir Sher1
+, Abdul Rehman2
+, Dongsun Kim2,* and Imran Ihsan1
+1
+Department of Creative Technologies, Air University, Islamabad, 44230, Pakistan
+2
+School of Computer Science and Engineering, Kyungpook National University, Daegu, 41566, Korea
+*Corresponding Author: Dongsun Kim. Email: mailto:darkrsw@knu.ac.kr",,,,,,,
+15,WOS:001097165900021 (https://www.notion.so/WOS-001097165900021-1130ee199b1d8199896ec71ce95d07aa?pvs=21),Exploiting Data Science for Measuring the Performance of Technology Stocks,Abdul Rehman,Korea,School of Computer Science and Engineering,"School of Computer Science and Engineering, Kyungpook National University, Daegu, 41566, Korea","Tahir Sher1
+, Abdul Rehman2
+, Dongsun Kim2,* and Imran Ihsan1
+1
+Department of Creative Technologies, Air University, Islamabad, 44230, Pakistan
+2
+School of Computer Science and Engineering, Kyungpook National University, Daegu, 41566, Korea
+*Corresponding Author: Dongsun Kim. Email: mailto:darkrsw@knu.ac.kr",,,,,,,
+15,WOS:001097165900021 (https://www.notion.so/WOS-001097165900021-1130ee199b1d8199896ec71ce95d07aa?pvs=21),Exploiting Data Science for Measuring the Performance of Technology Stocks,Dongsun Kim,Korea,School of Computer Science and Engineering,"School of Computer Science and Engineering, Kyungpook National University, Daegu, 41566, Korea","Tahir Sher1
+, Abdul Rehman2
+, Dongsun Kim2,* and Imran Ihsan1
+1
+Department of Creative Technologies, Air University, Islamabad, 44230, Pakistan
+2
+School of Computer Science and Engineering, Kyungpook National University, Daegu, 41566, Korea
+*Corresponding Author: Dongsun Kim. Email: mailto:darkrsw@knu.ac.kr",,,,,,,
+15,WOS:001097165900021 (https://www.notion.so/WOS-001097165900021-1130ee199b1d8199896ec71ce95d07aa?pvs=21),Exploiting Data Science for Measuring the Performance of Technology Stocks,Imran Ihsan,Pakistan,Department of Creative Technologies,"Department of Creative Technologies, Air University, Islamabad, 44230, Pakistan","Tahir Sher1
+, Abdul Rehman2
+, Dongsun Kim2,* and Imran Ihsan1
+1
+Department of Creative Technologies, Air University, Islamabad, 44230, Pakistan
+2
+School of Computer Science and Engineering, Kyungpook National University, Daegu, 41566, Korea
+*Corresponding Author: Dongsun Kim. Email: mailto:darkrsw@knu.ac.kr",,,,,,,
+16,https://doi.org/10.7906/indecs.18.4.7 (https://www.notion.so/https-doi-org-10-7906-indecs-18-4-7-10c0ee199b1d814a8223e75406abc858?pvs=21),Forecasting Stock Market Indices using Machine Learning Algorithms,Berislav Žmuk,Croatia,Faculty of Economics and Business,"University of Zagreb – Faculty of Economics and Business
+Zagreb, Croatia","Berislav Žmuk* and Hrvoje Jošić
+University of Zagreb – Faculty of Economics and Business
+Zagreb, Croatia",,,,,,,
+16,https://doi.org/10.7906/indecs.18.4.7 (https://www.notion.so/https-doi-org-10-7906-indecs-18-4-7-10c0ee199b1d814a8223e75406abc858?pvs=21),Forecasting Stock Market Indices using Machine Learning Algorithms,Hrvoje Jošić,Croatia,Faculty of Economics and Business,"University of Zagreb – Faculty of Economics and Business
+Zagreb, Croatia","Berislav Žmuk* and Hrvoje Jošić
+University of Zagreb – Faculty of Economics and Business
+Zagreb, Croatia",,,,,,,
+17,WOS:001259187000001 (https://www.notion.so/WOS-001259187000001-10c0ee199b1d81b788cbcf407414c89f?pvs=21),Probabilistic deep learning and transfer learning for robust cryptocurrency price prediction,Amin Golnari,Iran,Faculty of Electrical & Robotics,"Faculty of Electrical & Robotics, Shahrood University of Technology, Shahrood, Iran","Amin Golnari a,∗
+, Mohammad Hossein Komeili b
+, Zahra Azizi c
+a Faculty of Electrical & Robotics, Shahrood University of Technology, Shahrood, Iran
+b Faculty of Mathematics & Computer Science, Shahid Beheshti University, Tehran, Iran
+c Department of Computer Engineering, University of Afarinesh, Borujerd, Iran",,,,,,,
+17,WOS:001259187000001 (https://www.notion.so/WOS-001259187000001-10c0ee199b1d81b788cbcf407414c89f?pvs=21),Probabilistic deep learning and transfer learning for robust cryptocurrency price prediction,Mohammad Hossein Komeili,Iran,Faculty of Mathematics & Computer Science,"Faculty of Mathematics & Computer Science, Shahid Beheshti University, Tehran, Iran","Amin Golnari a,∗
+, Mohammad Hossein Komeili b
+, Zahra Azizi c
+a Faculty of Electrical & Robotics, Shahrood University of Technology, Shahrood, Iran
+b Faculty of Mathematics & Computer Science, Shahid Beheshti University, Tehran, Iran
+c Department of Computer Engineering, University of Afarinesh, Borujerd, Iran",,,,,,,
+17,WOS:001259187000001 (https://www.notion.so/WOS-001259187000001-10c0ee199b1d81b788cbcf407414c89f?pvs=21),Probabilistic deep learning and transfer learning for robust cryptocurrency price prediction,Zahra Azizi,Iran,Department of Computer Engineering,"Department of Computer Engineering, University of Afarinesh, Borujerd, Iran","Amin Golnari a,∗
+, Mohammad Hossein Komeili b
+, Zahra Azizi c
+a Faculty of Electrical & Robotics, Shahrood University of Technology, Shahrood, Iran
+b Faculty of Mathematics & Computer Science, Shahid Beheshti University, Tehran, Iran
+c Department of Computer Engineering, University of Afarinesh, Borujerd, Iran",,,,,,,
+18,WOS:000188597300010 (https://www.notion.so/WOS-000188597300010-10c0ee199b1d81339e46d8fcf0d50227?pvs=21),The adaptive selection of financial and economic variables for use with artificial neural networks,Suraphan Thawornwong,USA,Intelligent Systems Center / Eng Management (THINK https://isc.mst.edu/),"Intelligent Systems Center, 1870 Miner Circle 204, Eng Management, University of Missouri - Rolla,
+Rolla, MO65409-0370, USA","Suraphan Thawornwong, David Enke∗
+Intelligent Systems Center, 1870 Miner Circle 204, Eng Management, University of Missouri - Rolla,
+Rolla, MO65409-0370, USA",,,,,,,
+18,WOS:000188597300010 (https://www.notion.so/WOS-000188597300010-10c0ee199b1d81339e46d8fcf0d50227?pvs=21),The adaptive selection of financial and economic variables for use with artificial neural networks,David Enke∗,USA,Intelligent Systems Center / Eng Management (THINK https://isc.mst.edu/),"Intelligent Systems Center, 1870 Miner Circle 204, Eng Management, University of Missouri - Rolla,
+Rolla, MO65409-0370, USA","Suraphan Thawornwong, David Enke∗
+Intelligent Systems Center, 1870 Miner Circle 204, Eng Management, University of Missouri - Rolla,
+Rolla, MO65409-0370, USA",,,,,,,
+19,WOS:001062957900001 (https://www.notion.so/WOS-001062957900001-10c0ee199b1d818e9710c21dd2f99fc1?pvs=21),Application of machine learning in algorithmic investment strategies on global stock markets,Jan Grudniewicz,Poland,Faculty of Economic Sciences,"Quantitative Finance Research Group, Faculty of Economic Sciences, University of Warsaw, Ul. Długa 44/50, 00-241 Warsaw, Poland ","Jan Grudniewicz a
+, Robert Slepaczuk ´ b,*
+a Quantitative Finance Research Group, Faculty of Economic Sciences, University of Warsaw, Ul. Długa 44/50, 00-241 Warsaw, Poland b Quantitative Finance Research Group, Department of Quantitative Finance, Faculty of Economic Sciences, University of Warsaw, Ul. Długa 44/50,
+00-241 Warsaw, Poland",,,,,,,
+19,WOS:001062957900001 (https://www.notion.so/WOS-001062957900001-10c0ee199b1d818e9710c21dd2f99fc1?pvs=21),Application of machine learning in algorithmic investment strategies on global stock markets,Robert Slepaczuk,Poland,"Department of Quantitative Finance, Faculty of Economic Science","Quantitative Finance Research Group, Department of Quantitative Finance, Faculty of Economic Sciences, University of Warsaw, Ul. Długa 44/50,
+00-241 Warsaw, Poland ","Jan Grudniewicz a
+, Robert Slepaczuk ´ b,*
+a Quantitative Finance Research Group, Faculty of Economic Sciences, University of Warsaw, Ul. Długa 44/50, 00-241 Warsaw, Poland b Quantitative Finance Research Group, Department of Quantitative Finance, Faculty of Economic Sciences, University of Warsaw, Ul. Długa 44/50,
+00-241 Warsaw, Poland",,,,,,,
+20,WOS:000336191800020 (https://www.notion.so/WOS-000336191800020-1130ee199b1d81d989aaf471f40bb31c?pvs=21),Parametric models and non-parametric machine learning models for predicting option prices: Empirical comparison study over KOSPI 200 Index options,Hyejin Park,Korea,Department of Industrial and Management Engineering,"Department of Industrial and Management Engineering, Pohang University of Science and Technology (POSTECH), San 31 Hyoja, Pohang 790-784, South Korea","Hyejin Park a
+, Namhyoung Kim b,⇑
+, Jaewook Lee c
+aDepartment of Industrial and Management Engineering, Pohang University of Science and Technology (POSTECH), San 31 Hyoja, Pohang 790-784, South Korea bDepartment of Applied Statistics, Gachon University, 1342 Seongnamdaero, Sujeong-gu, Seongnam-si, Gyeonggi-do 461-701, South Korea
+cDepartment of Industrial Engineering, Seoul National University, 1 Gwanak-ro, Gwanak-gu, Seoul 151-744, South Korea
+",,,,,,,
+20,WOS:000336191800020 (https://www.notion.so/WOS-000336191800020-1130ee199b1d81d989aaf471f40bb31c?pvs=21),Parametric models and non-parametric machine learning models for predicting option prices: Empirical comparison study over KOSPI 200 Index options,Namhyoung Kim,Korea,Department of Applied Statistic,"Department of Applied Statistics, Gachon University, 1342 Seongnamdaero, Sujeong-gu, Seongnam-si, Gyeonggi-do 461-701, South Korea","Hyejin Park a
+, Namhyoung Kim b,⇑
+, Jaewook Lee c
+aDepartment of Industrial and Management Engineering, Pohang University of Science and Technology (POSTECH), San 31 Hyoja, Pohang 790-784, South Korea bDepartment of Applied Statistics, Gachon University, 1342 Seongnamdaero, Sujeong-gu, Seongnam-si, Gyeonggi-do 461-701, South Korea
+cDepartment of Industrial Engineering, Seoul National University, 1 Gwanak-ro, Gwanak-gu, Seoul 151-744, South Korea",,,,,,,
+20,WOS:000336191800020 (https://www.notion.so/WOS-000336191800020-1130ee199b1d81d989aaf471f40bb31c?pvs=21),Parametric models and non-parametric machine learning models for predicting option prices: Empirical comparison study over KOSPI 200 Index options,Jaewook Lee,Korea,Department of Industrial Engineering,"Department of Industrial Engineering, Seoul National University, 1 Gwanak-ro, Gwanak-gu, Seoul 151-744, South Korea","Hyejin Park a
+, Namhyoung Kim b,⇑
+, Jaewook Lee c
+aDepartment of Industrial and Management Engineering, Pohang University of Science and Technology (POSTECH), San 31 Hyoja, Pohang 790-784, South Korea bDepartment of Applied Statistics, Gachon University, 1342 Seongnamdaero, Sujeong-gu, Seongnam-si, Gyeonggi-do 461-701, South Korea
+cDepartment of Industrial Engineering, Seoul National University, 1 Gwanak-ro, Gwanak-gu, Seoul 151-744, South Korea",,,,,,,
+21,WOS:001157113100001 (https://www.notion.so/WOS-001157113100001-1130ee199b1d8177b3c5e480ebeff154?pvs=21),On the pricing of capped volatility swaps using machine learning techniques,STEPHAN HÖCHT,Germany,Assenagon Asset Management S.A,"†Assenagon Asset Management S.A., München, Germany
+","STEPHAN HÖCHT†, WIM SCHOUTENS*‡ and EVA VERSCHUEREN‡
+†Assenagon Asset Management S.A., München, Germany
+‡Department of Mathematics, KU Leuven, Leuven, Belgium",,,,,,,
+21,WOS:001157113100001 (https://www.notion.so/WOS-001157113100001-1130ee199b1d8177b3c5e480ebeff154?pvs=21),On the pricing of capped volatility swaps using machine learning techniques,WIM SCHOUTENS,Belgium,Department of Mathematics,"Department of Mathematics, KU Leuven, Leuven, Belgium","STEPHAN HÖCHT†, WIM SCHOUTENS*‡ and EVA VERSCHUEREN‡
+†Assenagon Asset Management S.A., München, Germany
+‡Department of Mathematics, KU Leuven, Leuven, Belgium",,,,,,,
+21,WOS:001157113100001 (https://www.notion.so/WOS-001157113100001-1130ee199b1d8177b3c5e480ebeff154?pvs=21),On the pricing of capped volatility swaps using machine learning techniques,EVA VERSCHUEREN,Belgium,Department of Mathematics,"Department of Mathematics, KU Leuven, Leuven, Belgium","STEPHAN HÖCHT†, WIM SCHOUTENS*‡ and EVA VERSCHUEREN‡
+†Assenagon Asset Management S.A., München, Germany
+‡Department of Mathematics, KU Leuven, Leuven, Belgium",,,,,,,
+22,WOS:001153279000001 (https://www.notion.so/WOS-001153279000001-10c0ee199b1d81d39f27e328ab3876e5?pvs=21),Fin-GAN: forecasting and classifying financial time series via generative adversarial networks,MILENA VULETIC,United Kingdom,Mathematical Institute,"Mathematical Institute, University of Oxford, Andrew Wiles Building, Woodstock Rd, Oxford, OX2 6GG, UK
+","MILENA VULETIC´ *†‡, FELIX PRENZEL† and MIHAI CUCURINGU†‡§¶
+†Mathematical Institute, University of Oxford, Andrew Wiles Building, Woodstock Rd, Oxford, OX2 6GG, UK
+‡Oxford-Man Institute of Quantitative Finance, University of Oxford, Eagle House, Walton Well Rd, Oxford, UK
+§Department of Statistics, University of Oxford, 24-29 St Giles’, Oxford, OX1 3LB, UK
+¶The Alan Turing Institute, 96 Euston Rd, London, NW1 2DB, UK",,Oxford-Man Institute of Quantitative Finance,"Oxford-Man Institute of Quantitative Finance, University of Oxford, Eagle House, Walton Well Rd, Oxford, UK",,,,
+22,WOS:001153279000001 (https://www.notion.so/WOS-001153279000001-10c0ee199b1d81d39f27e328ab3876e5?pvs=21),Fin-GAN: forecasting and classifying financial time series via generative adversarial networks,FELIX PRENZEL,United Kingdom,Mathematical Institute,"Mathematical Institute, University of Oxford, Andrew Wiles Building, Woodstock Rd, Oxford, OX2 6GG, UK
+","MILENA VULETIC´ *†‡, FELIX PRENZEL† and MIHAI CUCURINGU†‡§¶
+†Mathematical Institute, University of Oxford, Andrew Wiles Building, Woodstock Rd, Oxford, OX2 6GG, UK
+‡Oxford-Man Institute of Quantitative Finance, University of Oxford, Eagle House, Walton Well Rd, Oxford, UK
+§Department of Statistics, University of Oxford, 24-29 St Giles’, Oxford, OX1 3LB, UK
+¶The Alan Turing Institute, 96 Euston Rd, London, NW1 2DB, UK",,,,,,,
+22,WOS:001153279000001 (https://www.notion.so/WOS-001153279000001-10c0ee199b1d81d39f27e328ab3876e5?pvs=21),Fin-GAN: forecasting and classifying financial time series via generative adversarial networks,MIHAI CUCURINGU,United Kingdom,Mathematical Institute,"Mathematical Institute, University of Oxford, Andrew Wiles Building, Woodstock Rd, Oxford, OX2 6GG, UK","MILENA VULETIC´ *†‡, FELIX PRENZEL† and MIHAI CUCURINGU†‡§¶
+†Mathematical Institute, University of Oxford, Andrew Wiles Building, Woodstock Rd, Oxford, OX2 6GG, UK
+‡Oxford-Man Institute of Quantitative Finance, University of Oxford, Eagle House, Walton Well Rd, Oxford, UK
+§Department of Statistics, University of Oxford, 24-29 St Giles’, Oxford, OX1 3LB, UK
+¶The Alan Turing Institute, 96 Euston Rd, London, NW1 2DB, UK",,Oxford-Man Institute of Quantitative Finance,"Oxford-Man Institute of Quantitative Finance, University of Oxford, Eagle House, Walton Well Rd, Oxford, UK",Department of Statistics,"Department of Statistics, University of Oxford, 24-29 St Giles’, Oxford, OX1 3LB, UK",The Alan Turing Institute,"The Alan Turing Institute, 96 Euston Rd, London, NW1 2DB, UK"
+23,https://doi.org/10.1109/ICCPEIC.2014.6915414 (https://www.notion.so/https-doi-org-10-1109-ICCPEIC-2014-6915414-10c0ee199b1d8198a3faf8cb026091ba?pvs=21),Prediction of events based on Complex Event Processing and Probabilistic Fuzzy Logic,V Govindasamy,India,Department of Information Technology,"Department of Information Technology
+Pondicherry Engineering College
+Puducherry, India
+mailto:vgopu@pec.edu","Department of Information Technology
+Pondicherry Engineering College
+Puducherry, India
+mailto:mailme.ganesh23@gmail.com, shi va. mailto:it@pec.edu,
+mailto:ganesannivash@gmail.com",,,,,,,
+23,https://doi.org/10.1109/ICCPEIC.2014.6915414 (https://www.notion.so/https-doi-org-10-1109-ICCPEIC-2014-6915414-10c0ee199b1d8198a3faf8cb026091ba?pvs=21),Prediction of events based on Complex Event Processing and Probabilistic Fuzzy Logic,R Ganesh,India,Department of Information Technology,"Department of Information Technology
+Pondicherry Engineering College
+Puducherry, India
+mailto:vgopu@pec.edu","Department of Information Technology
+Pondicherry Engineering College
+Puducherry, India
+mailto:mailme.ganesh23@gmail.com, shi va. mailto:it@pec.edu,
+mailto:ganesannivash@gmail.com",,,,,,,
+23,https://doi.org/10.1109/ICCPEIC.2014.6915414 (https://www.notion.so/https-doi-org-10-1109-ICCPEIC-2014-6915414-10c0ee199b1d8198a3faf8cb026091ba?pvs=21),Prediction of events based on Complex Event Processing and Probabilistic Fuzzy Logic,G Nivash,India,Department of Information Technology,"Department of Information Technology
+Pondicherry Engineering College
+Puducherry, India
+mailto:vgopu@pec.edu","Department of Information Technology
+Pondicherry Engineering College
+Puducherry, India
+mailto:mailme.ganesh23@gmail.com, shi va. mailto:it@pec.edu,
+mailto:ganesannivash@gmail.com",,,,,,,
+23,https://doi.org/10.1109/ICCPEIC.2014.6915414 (https://www.notion.so/https-doi-org-10-1109-ICCPEIC-2014-6915414-10c0ee199b1d8198a3faf8cb026091ba?pvs=21),Prediction of events based on Complex Event Processing and Probabilistic Fuzzy Logic,S Shivaraman,India,Department of Information Technology,"Department of Information Technology
+Pondicherry Engineering College
+Puducherry, India
+mailto:vgopu@pec.edu","Department of Information Technology
+Pondicherry Engineering College
+Puducherry, India
+mailto:mailme.ganesh23@gmail.com, shi va. mailto:it@pec.edu,
+mailto:ganesannivash@gmail.com",,,,,,,
+24,https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9779871 (https://www.notion.so/https-ieeexplore-ieee-org-stamp-stamp-jsp-arnumber-9779871-10c0ee199b1d81bcadedff17d29a44a4?pvs=21),Uncertainty-Aware Portfolio Management With Risk-Sensitive Multiagent Network,Kidon Park,Korea,Department of Brain and Cognitive Engineering,"Department of Brain and Cognitive Engineering
+Korea University
+Seoul, South Korea","Kidon Park , Hong-Gyu Jung , Tae-San Eom , and Seong-Whan Lee , Fellow, IEEE
+",,,,,,,
+24,https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9779871 (https://www.notion.so/https-ieeexplore-ieee-org-stamp-stamp-jsp-arnumber-9779871-10c0ee199b1d81bcadedff17d29a44a4?pvs=21),Uncertainty-Aware Portfolio Management With Risk-Sensitive Multiagent Network,Hong-Gyu Jung,Korea,Department of Brain and Cognitive Engineering,"Department of Brain and Cognitive Engineering
+Korea University
+Seoul, South Korea","Kidon Park , Hong-Gyu Jung , Tae-San Eom , and Seong-Whan Lee , Fellow, IEEE
+",,,,,,,
+24,https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9779871 (https://www.notion.so/https-ieeexplore-ieee-org-stamp-stamp-jsp-arnumber-9779871-10c0ee199b1d81bcadedff17d29a44a4?pvs=21),Uncertainty-Aware Portfolio Management With Risk-Sensitive Multiagent Network,Tae-San Eom,Korea,Department of Brain and Cognitive Engineering,"Department of Brain and Cognitive Engineering
+Korea University
+Seoul, South Korea","Kidon Park , Hong-Gyu Jung , Tae-San Eom , and Seong-Whan Lee , Fellow, IEEE
+",,,,,,,
+24,https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9779871 (https://www.notion.so/https-ieeexplore-ieee-org-stamp-stamp-jsp-arnumber-9779871-10c0ee199b1d81bcadedff17d29a44a4?pvs=21),Uncertainty-Aware Portfolio Management With Risk-Sensitive Multiagent Network,Seong-Whan Lee,Korea,Department of Artificial Intelligence,"Department of Artificial Intelligence
+Korea University
+Seoul, Republic of Korea","Kidon Park , Hong-Gyu Jung , Tae-San Eom , and Seong-Whan Lee , Fellow, IEEE
+",,,,,,,
+25,WOS:001223046600008 (https://www.notion.so/WOS-001223046600008-10c0ee199b1d8174a48afcd8559592bb?pvs=21),"Long-term financial predictions based on Feynman-Dirac path integrals, deep Bayesian networks and temporal generative adversarial networks",Farzan Soleyman,Canada," Department of Mechanical Engineering","Department of Mechanical Engineering, University of Ottawa, Ottawa, ON, Canada","Farzan Soleymani a
+, Eric Paquet b,∗
+a Department of Mechanical Engineering, University of Ottawa, Ottawa, ON, Canada
+b National Research Council, 1200 Montreal Road, Ottawa, ON, K1A 0R6, Canada",,,,,,,
+25,WOS:001223046600008 (https://www.notion.so/WOS-001223046600008-10c0ee199b1d8174a48afcd8559592bb?pvs=21),"Long-term financial predictions based on Feynman-Dirac path integrals, deep Bayesian networks and temporal generative adversarial networks",Eric Paquet,Canada,"National Research Council,","National Research Council, 1200 Montreal Road, Ottawa, ON, K1A 0R6, Canada
+","Farzan Soleymani a
+, Eric Paquet b,∗
+a Department of Mechanical Engineering, University of Ottawa, Ottawa, ON, Canada
+b National Research Council, 1200 Montreal Road, Ottawa, ON, K1A 0R6, Canada",,,,,,,
+26,WOS:001045509800001 (https://www.notion.so/WOS-001045509800001-10c0ee199b1d81ecba30fc3dad22e0fd?pvs=21),Portfolio optimization using predictive auxiliary classifier generative adversarial networks,Jiwook Kim,Korea,School of Electrical & Electronics Engineering,"School of Electrical & Electronics Engineering, Chung-Ang University, Seoul 06974, Republic of Korea","Jiwook Kim, Minhyeok Lee ∗
+School of Electrical & Electronics Engineering, Chung-Ang University, Seoul 06974, Republic of Korea",,,,,,,
+26,WOS:001045509800001 (https://www.notion.so/WOS-001045509800001-10c0ee199b1d81ecba30fc3dad22e0fd?pvs=21),Portfolio optimization using predictive auxiliary classifier generative adversarial networks,Minhyeok Lee,Korea,School of Electrical & Electronics Engineering,"School of Electrical & Electronics Engineering, Chung-Ang University, Seoul 06974, Republic of Korea","Jiwook Kim, Minhyeok Lee ∗
+School of Electrical & Electronics Engineering, Chung-Ang University, Seoul 06974, Republic of Korea",,,,,,,
+27,https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8125674 (https://www.notion.so/https-ieeexplore-ieee-org-stamp-stamp-jsp-arnumber-8125674-10c0ee199b1d81cc861ff63288af7e41?pvs=21),An Empirical Study on Modeling and Prediction of Bitcoin Prices With Bayesian Neural Networks Based on Blockchain Information,HUISU JANG,Korea,Department of Industrial Engineering,"Department of Industrial Engineering, Seoul National University, Seoul 151742, South Korea","HUISU JANG AND JAEWOOK LEE
+Department of Industrial Engineering, Seoul National University, Seoul 151742, South Korea
+Corresponding author: Jaewook Lee (mailto:jaewook@snu.ac.kr)
+This work was supported by the National Research Foundation of Korea Grant through the Korean Government (MEST) under
+Grant 2016R1A2B3014030.
+",,,,,,,
+27,https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8125674 (https://www.notion.so/https-ieeexplore-ieee-org-stamp-stamp-jsp-arnumber-8125674-10c0ee199b1d81cc861ff63288af7e41?pvs=21),An Empirical Study on Modeling and Prediction of Bitcoin Prices With Bayesian Neural Networks Based on Blockchain Information," JAEWOOK LEE",Korea,Department of Industrial Engineering,"Department of Industrial Engineering, Seoul National University, Seoul 151742, South Korea","HUISU JANG AND JAEWOOK LEE
+Department of Industrial Engineering, Seoul National University, Seoul 151742, South Korea
+Corresponding author: Jaewook Lee (mailto:jaewook@snu.ac.kr)
+This work was supported by the National Research Foundation of Korea Grant through the Korean Government (MEST) under
+Grant 2016R1A2B3014030.
+",,,,,,,
+28,WOS:000432501900002 (https://www.notion.so/WOS-000432501900002-10c0ee199b1d81179206e4210053e999?pvs=21),Forecasting stock market index daily direction: A Bayesian Network approach,Luciana S. Malagrino,Brazil,Information Systems,"University of São Paulo, São Paulo, Brazil","Luciana S. Malagrinoa
+, Norton T. Romana,∗
+, Ana M. Monteiro b
+a University of São Paulo, São Paulo, Brazil b Campo Limpo Paulista Faculty, Campo Limpo Paulista, Brazil",,,,,,,
+28,WOS:000432501900002 (https://www.notion.so/WOS-000432501900002-10c0ee199b1d81179206e4210053e999?pvs=21),Forecasting stock market index daily direction: A Bayesian Network approach,Norton T. Roman,Brazil,Artificial Intelligence and Computational Linguistics,"University of São Paulo, São Paulo, Brazil","Luciana S. Malagrinoa
+, Norton T. Romana,∗
+, Ana M. Monteiro b
+a University of São Paulo, São Paulo, Brazil b Campo Limpo Paulista Faculty, Campo Limpo Paulista, Brazil",,,,,,,
+28,WOS:000432501900002 (https://www.notion.so/WOS-000432501900002-10c0ee199b1d81179206e4210053e999?pvs=21),Forecasting stock market index daily direction: A Bayesian Network approach,Ana M. Monteiro,Brazil,Campo Limpo Paulista Faculty,"Campo Limpo Paulista Faculty, Campo Limpo Paulista, Brazil","Luciana S. Malagrinoa
+, Norton T. Romana,∗
+, Ana M. Monteiro b
+a University of São Paulo, São Paulo, Brazil b Campo Limpo Paulista Faculty, Campo Limpo Paulista, Brazil",,,,,,,
+29,WOS:000663221100001 (https://www.notion.so/WOS-000663221100001-10c0ee199b1d81f0a58cef4736f3cdd2?pvs=21),Industrial Forecasting with Exponentially Smoothed Recurrent Neural Networks,Matthew Dixon,USA,Department of Applied Mathematics,"Department of Applied Mathematics, Illinois Institute of Technology, Chicago, IL","Matthew Dixon
+Department of Applied Mathematics, Illinois Institute of Technology, Chicago, IL
+",,,,,,,
+30,WOS:000685167900003 (https://www.notion.so/WOS-000685167900003-10c0ee199b1d81b5bec0cd3426ca9991?pvs=21),Market efficiency analysis using Al models based on Investors' Mood,RAÚL GÓMEZ MARTÍNEZ,Spain,Business Economics and Finance,"Universidad Rey Juan Carlos, Madrid, Spain","RAÚL GÓMEZ MARTÍNEZ*
+PAOLA PLAZA CASADO**
+MIGUEL PRADO ROMÁN***
+* PhD in Business Economics and Finance. Universidad Rey Juan Carlos, Madrid, Spain. E-mail: mailto:raul.gomez.martinez@urjc.es.
+ORCID: 0000-0002-6810-0628. Google Scholar: https://scholar.google.es/citations?hl=es&user=yI03nEgAAAAJ.
+** PhD in Financial Economics and Accounting. Universidad Rey Juan Carlos, Madrid, Spain. E-mail: mailto:paola.plaza@urjc.es.
+ORCID: 0000-0002-8869-6123. Google Scholar: https://scholar.google.es/citations?hl=es&user=QSFvGGEAAAAJ.
+*** PhD in Financial Economics and Accounting. Universidad Rey Juan Carlos, Madrid, Spain. E-mail: mailto:miguel.prado@urjc.es.
+ORCID: 0000-0002-0121-7506. Google Scholar: https://scholar.google.es/citations?hl=es&user=iPNfUrEAAAAJ.",,,,,,,
+30,WOS:000685167900003 (https://www.notion.so/WOS-000685167900003-10c0ee199b1d81b5bec0cd3426ca9991?pvs=21),Market efficiency analysis using Al models based on Investors' Mood,PAOLA PLAZA CASADO,Spain," Financial Economics and Accounting","Universidad Rey Juan Carlos, Madrid, Spain","RAÚL GÓMEZ MARTÍNEZ*
+PAOLA PLAZA CASADO**
+MIGUEL PRADO ROMÁN***
+* PhD in Business Economics and Finance. Universidad Rey Juan Carlos, Madrid, Spain. E-mail: mailto:raul.gomez.martinez@urjc.es.
+ORCID: 0000-0002-6810-0628. Google Scholar: https://scholar.google.es/citations?hl=es&user=yI03nEgAAAAJ.
+** PhD in Financial Economics and Accounting. Universidad Rey Juan Carlos, Madrid, Spain. E-mail: mailto:paola.plaza@urjc.es.
+ORCID: 0000-0002-8869-6123. Google Scholar: https://scholar.google.es/citations?hl=es&user=QSFvGGEAAAAJ.
+*** PhD in Financial Economics and Accounting. Universidad Rey Juan Carlos, Madrid, Spain. E-mail: mailto:miguel.prado@urjc.es.
+ORCID: 0000-0002-0121-7506. Google Scholar: https://scholar.google.es/citations?hl=es&user=iPNfUrEAAAAJ.",,,,,,,
+30,WOS:000685167900003 (https://www.notion.so/WOS-000685167900003-10c0ee199b1d81b5bec0cd3426ca9991?pvs=21),Market efficiency analysis using Al models based on Investors' Mood,MIGUEL PRADO ROMÁN,Spain,n Financial Economics and Accounting,"Universidad Rey Juan Carlos, Madrid, Spain","RAÚL GÓMEZ MARTÍNEZ*
+PAOLA PLAZA CASADO**
+MIGUEL PRADO ROMÁN***
+* PhD in Business Economics and Finance. Universidad Rey Juan Carlos, Madrid, Spain. E-mail: mailto:raul.gomez.martinez@urjc.es.
+ORCID: 0000-0002-6810-0628. Google Scholar: https://scholar.google.es/citations?hl=es&user=yI03nEgAAAAJ.
+** PhD in Financial Economics and Accounting. Universidad Rey Juan Carlos, Madrid, Spain. E-mail: mailto:paola.plaza@urjc.es.
+ORCID: 0000-0002-8869-6123. Google Scholar: https://scholar.google.es/citations?hl=es&user=QSFvGGEAAAAJ.
+*** PhD in Financial Economics and Accounting. Universidad Rey Juan Carlos, Madrid, Spain. E-mail: mailto:miguel.prado@urjc.es.
+ORCID: 0000-0002-0121-7506. Google Scholar: https://scholar.google.es/citations?hl=es&user=iPNfUrEAAAAJ.",,,,,,,
+31,WOS:000462781900001 (https://www.notion.so/WOS-000462781900001-10c0ee199b1d81ca9a49e1794e256262?pvs=21),Sequential Design and Spatial Modeling for Portfolio Tail Risk Measurement,Jimmy Risk,USA,Department of Statistics and Applied Probability,"†Department of Statistics and Applied Probability, University of California, Santa Barbara, CA 93106-3110
+(mailto:ludkovski@pstat.ucsb.edu).
+","Jimmy Risk†
+and Michael Ludkovski‡ Department of Statistics and Applied Probability, University of California, Santa Barbara, CA 93106-3110
+(mailto:ludkovski@pstat.ucsb.edu).
+‡Department of Mathematics and Statistics, Cal Poly Pomona, Pomona, CA 91768 (mailto:jrisk@cpp.edu).
+
+",,,,,,,
+31,WOS:000462781900001 (https://www.notion.so/WOS-000462781900001-10c0ee199b1d81ca9a49e1794e256262?pvs=21),Sequential Design and Spatial Modeling for Portfolio Tail Risk Measurement,Michael Ludkovski,USA,Department of Mathematics and Statistics,"Department of Mathematics and Statistics, Cal Poly Pomona, Pomona, CA 91768 (mailto:jrisk@cpp.edu)","Jimmy Risk†
+and Michael Ludkovski‡ Department of Statistics and Applied Probability, University of California, Santa Barbara, CA 93106-3110
+(mailto:ludkovski@pstat.ucsb.edu).
+‡Department of Mathematics and Statistics, Cal Poly Pomona, Pomona, CA 91768 (mailto:jrisk@cpp.edu).
+
+",,,,,,,
+32,WOS:001140460100001 (https://www.notion.so/WOS-001140460100001-10c0ee199b1d818b9dececffbef767bd?pvs=21),A Novel Deterministic Probabilistic Forecasting Framework for Gold Price with a New Pandemic Index Based on Quantile Regression Deep Learning and Multi-Objective Optimization,Yan Wang,China,Haide College,"Haide College, Ocean University of China, Qingdao 266100, China; mailto:wangyan2815@stu.ouc.edu.cn","Yan Wang 1 and Tong Lin 2,*
+1 Haide College, Ocean University of China, Qingdao 266100, China; mailto:wangyan2815@stu.ouc.edu.cn
+2 School of Mathematical Sciences, Ocean University of China, Qingdao 266100, China
+",,,,,,,
+32,WOS:001140460100001 (https://www.notion.so/WOS-001140460100001-10c0ee199b1d818b9dececffbef767bd?pvs=21),A Novel Deterministic Probabilistic Forecasting Framework for Gold Price with a New Pandemic Index Based on Quantile Regression Deep Learning and Multi-Objective Optimization,Tong Lin,China,School of Mathematical Sciences,"School of Mathematical Sciences, Ocean University of China, Qingdao 266100, China","Yan Wang 1 and Tong Lin 2,*
+1 Haide College, Ocean University of China, Qingdao 266100, China; mailto:wangyan2815@stu.ouc.edu.cn
+2 School of Mathematical Sciences, Ocean University of China, Qingdao 266100, China
+",,,,,,,
+33,WOS:000652785100001 (https://www.notion.so/WOS-000652785100001-10c0ee199b1d81e480d2fbfa28cf38ce?pvs=21),A general Bayesian model for heteroskedastic data with fully conjugate full-conditional distributions,Paul A. Parker,USA,Department of Statistics,"Department of Statistics, University of Missouri, Columbia, MO, USA; ","Paul A. Parker a, Scott H. Holana and Skye A. Willsb
+aDepartment of Statistics, University of Missouri, Columbia, MO, USA; bUSDA-Natural Resources Conservation
+Service, National Soil Survey Center, Lincoln, NE, USA
+",,,,,,,
+33,WOS:000652785100001 (https://www.notion.so/WOS-000652785100001-10c0ee199b1d81e480d2fbfa28cf38ce?pvs=21),A general Bayesian model for heteroskedastic data with fully conjugate full-conditional distributions," Scott H. Holan",USA,Department of Statistics,"Department of Statistics, University of Missouri, Columbia, MO, USA; ","Paul A. Parker a, Scott H. Holana and Skye A. Willsb
+aDepartment of Statistics, University of Missouri, Columbia, MO, USA; bUSDA-Natural Resources Conservation
+Service, National Soil Survey Center, Lincoln, NE, USA
+",,,,,,,
+33,WOS:000652785100001 (https://www.notion.so/WOS-000652785100001-10c0ee199b1d81e480d2fbfa28cf38ce?pvs=21),A general Bayesian model for heteroskedastic data with fully conjugate full-conditional distributions,Skye A. Wills,USA,"USDA-Natural Resources Conservation
+Service","USDA-Natural Resources Conservation
+Service, National Soil Survey Center, Lincoln, NE, USA","Paul A. Parker a, Scott H. Holana and Skye A. Willsb
+aDepartment of Statistics, University of Missouri, Columbia, MO, USA; bUSDA-Natural Resources Conservation
+Service, National Soil Survey Center, Lincoln, NE, USA
+",,,,,,,
+34,10.1016/j.neunet.2020.03.022 (https://www.notion.so/10-1016-j-neunet-2020-03-022-10c0ee199b1d8102bec1e0971d936ea6?pvs=21),A fast conformal predictive system with regularized extreme learning machine,Di Wang,China,School of Electrical and Information Engineering,"School of Electrical and Information Engineering, Tianjin University, 300072, Tianjin, China
+","Di Wang, Ping Wang ∗
+, Yue Yuan, Pingping Wang, Junzhi Shi
+School of Electrical and Information Engineering, Tianjin University, 300072, Tianjin, China",,,,,,,
+34,10.1016/j.neunet.2020.03.022 (https://www.notion.so/10-1016-j-neunet-2020-03-022-10c0ee199b1d8102bec1e0971d936ea6?pvs=21),A fast conformal predictive system with regularized extreme learning machine,Ping Wang,China,School of Electrical and Information Engineering,"School of Electrical and Information Engineering, Tianjin University, 300072, Tianjin, China
+","Di Wang, Ping Wang ∗
+, Yue Yuan, Pingping Wang, Junzhi Shi
+School of Electrical and Information Engineering, Tianjin University, 300072, Tianjin, China",,,,,,,
+34,10.1016/j.neunet.2020.03.022 (https://www.notion.so/10-1016-j-neunet-2020-03-022-10c0ee199b1d8102bec1e0971d936ea6?pvs=21),A fast conformal predictive system with regularized extreme learning machine,Yue Yuan,China,School of Electrical and Information Engineering,"School of Electrical and Information Engineering, Tianjin University, 300072, Tianjin, China
+","Di Wang, Ping Wang ∗
+, Yue Yuan, Pingping Wang, Junzhi Shi
+School of Electrical and Information Engineering, Tianjin University, 300072, Tianjin, China",,,,,,,
+34,10.1016/j.neunet.2020.03.022 (https://www.notion.so/10-1016-j-neunet-2020-03-022-10c0ee199b1d8102bec1e0971d936ea6?pvs=21),A fast conformal predictive system with regularized extreme learning machine,Pingping Wang,China,School of Electrical and Information Engineering,"School of Electrical and Information Engineering, Tianjin University, 300072, Tianjin, China
+","Di Wang, Ping Wang ∗
+, Yue Yuan, Pingping Wang, Junzhi Shi
+School of Electrical and Information Engineering, Tianjin University, 300072, Tianjin, China",,,,,,,
+34,10.1016/j.neunet.2020.03.022 (https://www.notion.so/10-1016-j-neunet-2020-03-022-10c0ee199b1d8102bec1e0971d936ea6?pvs=21),A fast conformal predictive system with regularized extreme learning machine,Junzhi Shi,China,School of Electrical and Information Engineering,"School of Electrical and Information Engineering, Tianjin University, 300072, Tianjin, China
+","Di Wang, Ping Wang ∗
+, Yue Yuan, Pingping Wang, Junzhi Shi
+School of Electrical and Information Engineering, Tianjin University, 300072, Tianjin, China",,,,,,,
+35,WOS:000392285600027 (https://www.notion.so/WOS-000392285600027-10c0ee199b1d810fbc61f1a5813f96b6?pvs=21),Stock trend prediction based on a new status box method and AdaBoost probabilistic support vector machine,Xiao-dan Zhang,China,School of Mathematics and Physics,"School of Mathematics and Physics, University of Science and Technology Beijing, Xueyuan, Road No. 30 Haidian District, Beijing, China","Xiao-dan Zhanga,∗, Ang Li a, Ran Panb
+a School of Mathematics and Physics, University of Science and Technology Beijing, Xueyuan, Road No. 30 Haidian District, Beijing, China b School of Mechanical Engineering, Imperial College London, London, UK",,,,,,,
+35,WOS:000392285600027 (https://www.notion.so/WOS-000392285600027-10c0ee199b1d810fbc61f1a5813f96b6?pvs=21),Stock trend prediction based on a new status box method and AdaBoost probabilistic support vector machine,Ang Li,China,School of Mathematics and Physics,"School of Mathematics and Physics, University of Science and Technology Beijing, Xueyuan, Road No. 30 Haidian District, Beijing, China","Xiao-dan Zhanga,∗, Ang Li a, Ran Panb
+a School of Mathematics and Physics, University of Science and Technology Beijing, Xueyuan, Road No. 30 Haidian District, Beijing, China b School of Mechanical Engineering, Imperial College London, London, UK",,,,,,,
+35,WOS:000392285600027 (https://www.notion.so/WOS-000392285600027-10c0ee199b1d810fbc61f1a5813f96b6?pvs=21),Stock trend prediction based on a new status box method and AdaBoost probabilistic support vector machine,Ran Pan,United Kingdom,School of Mechanical Engineering,"School of Mechanical Engineering, Imperial College London, London, UK","Xiao-dan Zhanga,∗, Ang Li a, Ran Panb
+a School of Mathematics and Physics, University of Science and Technology Beijing, Xueyuan, Road No. 30 Haidian District, Beijing, China b School of Mechanical Engineering, Imperial College London, London, UK",,,,,,,
+36,10.1504/ijebr.2023.127271 (https://www.notion.so/10-1504-ijebr-2023-127271-10c0ee199b1d8136af5fedad74684bf0?pvs=21),Technical analysis forecasting and evaluation of stock markets: the probabilistic recovery neural network approach,Andreas Maniatopoulos,Greece,Department of Electrical and Computer Engineering,"Department of Electrical and Computer Engineering,
+Democritus University of Thrace,
+Xanthi, 67100, Greece","Andreas Maniatopoulos*, Alexandros Gazis
+and Nikolaos Mitianoudis
+Department of Electrical and Computer Engineering,
+Democritus University of Thrace,
+Xanthi, 67100, Greece
+",,,,,,,
+36,10.1504/ijebr.2023.127271 (https://www.notion.so/10-1504-ijebr-2023-127271-10c0ee199b1d8136af5fedad74684bf0?pvs=21),Technical analysis forecasting and evaluation of stock markets: the probabilistic recovery neural network approach,Alexandros Gazis,Greece,Department of Electrical and Computer Engineering,"Department of Electrical and Computer Engineering,
+Democritus University of Thrace,
+Xanthi, 67100, Greece","Andreas Maniatopoulos*, Alexandros Gazis
+and Nikolaos Mitianoudis
+Department of Electrical and Computer Engineering,
+Democritus University of Thrace,
+Xanthi, 67100, Greece
+",,,,,,,
+36,10.1504/ijebr.2023.127271 (https://www.notion.so/10-1504-ijebr-2023-127271-10c0ee199b1d8136af5fedad74684bf0?pvs=21),Technical analysis forecasting and evaluation of stock markets: the probabilistic recovery neural network approach,Nikolaos Mitianoudis,Greece,Department of Electrical and Computer Engineering,"Department of Electrical and Computer Engineering,
+Democritus University of Thrace,
+Xanthi, 67100, Greece","Andreas Maniatopoulos*, Alexandros Gazis
+and Nikolaos Mitianoudis
+Department of Electrical and Computer Engineering,
+Democritus University of Thrace,
+Xanthi, 67100, Greece
+",,,,,,,
+37,2-s2.0-85177977642 (https://www.notion.so/2-s2-0-85177977642-1310ee199b1d811e83f3e98beb73604e?pvs=21),Black-Litterman Portfolio Optimization Using Gaussian Process Regression,Zhen Li,China,School of Business,"School of Business, Putian
+University, Putian Fujian 351100, China. ","Manuscript received May. 3, 2023; revised Sep.18, 2023. This work
+is supported by the National Natural Science Foundation of China (No.
+71971132), the Fundamental Research Funds for the Central Universities
+(No. 2020110552), and the general program of National Social Science
+Foundation (No. 22BGL297). This work is also supported by the special
+fund for spiritual research of the 20th CPC national Congress from
+Shanghai Business School (No. AX-10999-1103-1102).
+Zhen Li is an associate professor in the School of Business, Putian
+University, Putian Fujian 351100, China. E-mail: mailto:408053275@qq.com.
+Changfei Li is an assistant in the School of Humanities and Management, Shandong Modern University, Jinan Shandong 250104, China
+(Corresponding author, e-mail: mailto:992604400@qq.com).
+Liangyu Min is a lecturer in the Faculty of Business Information, Shanghai Business School, Shanghai 201400, China. Email:21220001@sbs.edu.cn.
+Dijia Lin is a PhD candidate of School of Information Management
+& Engineering, Shanghai University of Finance & Economics, Shanghai
+200433, China. mailto:E-mail:dijialin@163.sufe.edu.cn.
+",,,,,,,
+37,2-s2.0-85177977642 (https://www.notion.so/2-s2-0-85177977642-1310ee199b1d811e83f3e98beb73604e?pvs=21),Black-Litterman Portfolio Optimization Using Gaussian Process Regression,Changfei Li,China,School of Humanities and Management,"School of Humanities and Management, Shandong Modern University, Jinan Shandong 250104, China
+(Corresponding author, e-mail: mailto:992604400@qq.com).","Manuscript received May. 3, 2023; revised Sep.18, 2023. This work
+is supported by the National Natural Science Foundation of China (No.
+71971132), the Fundamental Research Funds for the Central Universities
+(No. 2020110552), and the general program of National Social Science
+Foundation (No. 22BGL297). This work is also supported by the special
+fund for spiritual research of the 20th CPC national Congress from
+Shanghai Business School (No. AX-10999-1103-1102).
+Zhen Li is an associate professor in the School of Business, Putian
+University, Putian Fujian 351100, China. E-mail: mailto:408053275@qq.com.
+Changfei Li is an assistant in the School of Humanities and Management, Shandong Modern University, Jinan Shandong 250104, China
+(Corresponding author, e-mail: mailto:992604400@qq.com).
+Liangyu Min is a lecturer in the Faculty of Business Information, Shanghai Business School, Shanghai 201400, China. Email:21220001@sbs.edu.cn.
+Dijia Lin is a PhD candidate of School of Information Management
+& Engineering, Shanghai University of Finance & Economics, Shanghai
+200433, China. mailto:E-mail:dijialin@163.sufe.edu.cn.
+",,,,,,,
+37,2-s2.0-85177977642 (https://www.notion.so/2-s2-0-85177977642-1310ee199b1d811e83f3e98beb73604e?pvs=21),Black-Litterman Portfolio Optimization Using Gaussian Process Regression,Liangyu Min,China," Faculty of Business Information","Faculty of Business Information, Shanghai Business School, Shanghai 201400, China. Email:21220001@sbs.edu.cn.","Manuscript received May. 3, 2023; revised Sep.18, 2023. This work
+is supported by the National Natural Science Foundation of China (No.
+71971132), the Fundamental Research Funds for the Central Universities
+(No. 2020110552), and the general program of National Social Science
+Foundation (No. 22BGL297). This work is also supported by the special
+fund for spiritual research of the 20th CPC national Congress from
+Shanghai Business School (No. AX-10999-1103-1102).
+Zhen Li is an associate professor in the School of Business, Putian
+University, Putian Fujian 351100, China. E-mail: mailto:408053275@qq.com.
+Changfei Li is an assistant in the School of Humanities and Management, Shandong Modern University, Jinan Shandong 250104, China
+(Corresponding author, e-mail: mailto:992604400@qq.com).
+Liangyu Min is a lecturer in the Faculty of Business Information, Shanghai Business School, Shanghai 201400, China. Email:21220001@sbs.edu.cn.
+Dijia Lin is a PhD candidate of School of Information Management
+& Engineering, Shanghai University of Finance & Economics, Shanghai
+200433, China. mailto:E-mail:dijialin@163.sufe.edu.cn.
+",,,,,,,
+37,2-s2.0-85177977642 (https://www.notion.so/2-s2-0-85177977642-1310ee199b1d811e83f3e98beb73604e?pvs=21),Black-Litterman Portfolio Optimization Using Gaussian Process Regression,Dijia Lin,China,"School of Information Management
+& Engineering","School of Information Management
+& Engineering, Shanghai University of Finance & Economics, Shanghai
+200433, China.","Manuscript received May. 3, 2023; revised Sep.18, 2023. This work
+is supported by the National Natural Science Foundation of China (No.
+71971132), the Fundamental Research Funds for the Central Universities
+(No. 2020110552), and the general program of National Social Science
+Foundation (No. 22BGL297). This work is also supported by the special
+fund for spiritual research of the 20th CPC national Congress from
+Shanghai Business School (No. AX-10999-1103-1102).
+Zhen Li is an associate professor in the School of Business, Putian
+University, Putian Fujian 351100, China. E-mail: mailto:408053275@qq.com.
+Changfei Li is an assistant in the School of Humanities and Management, Shandong Modern University, Jinan Shandong 250104, China
+(Corresponding author, e-mail: mailto:992604400@qq.com).
+Liangyu Min is a lecturer in the Faculty of Business Information, Shanghai Business School, Shanghai 201400, China. Email:21220001@sbs.edu.cn.
+Dijia Lin is a PhD candidate of School of Information Management
+& Engineering, Shanghai University of Finance & Economics, Shanghai
+200433, China. mailto:E-mail:dijialin@163.sufe.edu.cn.
+",,,,,,,
+38,WOS:000829767000001 (https://www.notion.so/WOS-000829767000001-1200ee199b1d812c8f7fd38659e5abcf?pvs=21),Research on Risk Features and Prediction of China's Crude Oil Futures Market Based on Machine Learning,Yaoqi Guo,China,School of Mathematics and Statistics,"School of Mathematics and Statistics, Central South University, Changsha, China","Yaoqi Guo1
+, Shuchang Zhang1 and Yanqiong Liu2
+*
+1
+School of Mathematics and Statistics, Central South University, Changsha, China, 2
+School of Mathematics and Statistics, Hunan
+First Normal University, Changsha, china",,,,,,,
+38,WOS:000829767000001 (https://www.notion.so/WOS-000829767000001-1200ee199b1d812c8f7fd38659e5abcf?pvs=21),Research on Risk Features and Prediction of China's Crude Oil Futures Market Based on Machine Learning,Shuchang Zhang,China,School of Mathematics and Statistics,"School of Mathematics and Statistics, Central South University, Changsha, China","Yaoqi Guo1
+, Shuchang Zhang1 and Yanqiong Liu2
+*
+1
+School of Mathematics and Statistics, Central South University, Changsha, China, 2
+School of Mathematics and Statistics, Hunan
+First Normal University, Changsha, china",,,,,,,
+38,WOS:000829767000001 (https://www.notion.so/WOS-000829767000001-1200ee199b1d812c8f7fd38659e5abcf?pvs=21),Research on Risk Features and Prediction of China's Crude Oil Futures Market Based on Machine Learning,Yanqiong Liu,China,School of Mathematics and Statistics,"School of Mathematics and Statistics, Hunan
+First Normal University, Changsha, china","Yaoqi Guo1
+, Shuchang Zhang1 and Yanqiong Liu2
+*
+1
+School of Mathematics and Statistics, Central South University, Changsha, China, 2
+School of Mathematics and Statistics, Hunan
+First Normal University, Changsha, china",,,,,,,
+39,WOS:000864527500006 (https://www.notion.so/WOS-000864527500006-1200ee199b1d81ef9d2bc3cda611ae28?pvs=21),A non-ferrous metal price ensemble prediction system based on innovative combined kernel extreme learning machine and chaos theory,Honggang Guo,China,School of Statistics,"School of Statistics, Dongbei University of Finance and Economics, 116025, Dalian, China","Honggang Guo a
+, Jianzhou Wang a,*
+, Zhiwu Li b
+, Haiyan Lu c
+, Linyue Zhang a
+a School of Statistics, Dongbei University of Finance and Economics, 116025, Dalian, China b Institute of Systems Engineering, Macau University of Science and Technology, Macau, 999078, China c Department of Software Engineering, University of Technology Sydney, Sydney, Australia ",,,,,,,
+39,WOS:000864527500006 (https://www.notion.so/WOS-000864527500006-1200ee199b1d81ef9d2bc3cda611ae28?pvs=21),A non-ferrous metal price ensemble prediction system based on innovative combined kernel extreme learning machine and chaos theory,Jianzhou Wang,China,School of Statistics,"School of Statistics, Dongbei University of Finance and Economics, 116025, Dalian, China","Honggang Guo a
+, Jianzhou Wang a,*
+, Zhiwu Li b
+, Haiyan Lu c
+, Linyue Zhang a
+a School of Statistics, Dongbei University of Finance and Economics, 116025, Dalian, China b Institute of Systems Engineering, Macau University of Science and Technology, Macau, 999078, China c Department of Software Engineering, University of Technology Sydney, Sydney, Australia ",,,,,,,
+39,WOS:000864527500006 (https://www.notion.so/WOS-000864527500006-1200ee199b1d81ef9d2bc3cda611ae28?pvs=21),A non-ferrous metal price ensemble prediction system based on innovative combined kernel extreme learning machine and chaos theory,Zhiwu Li,China,Institute of Systems Engineering,"Institute of Systems Engineering, Macau University of Science and Technology, Macau, 999078, China","Honggang Guo a
+, Jianzhou Wang a,*
+, Zhiwu Li b
+, Haiyan Lu c
+, Linyue Zhang a
+a School of Statistics, Dongbei University of Finance and Economics, 116025, Dalian, China b Institute of Systems Engineering, Macau University of Science and Technology, Macau, 999078, China c Department of Software Engineering, University of Technology Sydney, Sydney, Australia ",,,,,,,
+39,WOS:000864527500006 (https://www.notion.so/WOS-000864527500006-1200ee199b1d81ef9d2bc3cda611ae28?pvs=21),A non-ferrous metal price ensemble prediction system based on innovative combined kernel extreme learning machine and chaos theory,Haiyan Lu,Australia,Department of Software Engineering,"Department of Software Engineering, University of Technology Sydney, Sydney, Australia","Honggang Guo a
+, Jianzhou Wang a,*
+, Zhiwu Li b
+, Haiyan Lu c
+, Linyue Zhang a
+a School of Statistics, Dongbei University of Finance and Economics, 116025, Dalian, China b Institute of Systems Engineering, Macau University of Science and Technology, Macau, 999078, China c Department of Software Engineering, University of Technology Sydney, Sydney, Australia ",,,,,,,
+39,WOS:000864527500006 (https://www.notion.so/WOS-000864527500006-1200ee199b1d81ef9d2bc3cda611ae28?pvs=21),A non-ferrous metal price ensemble prediction system based on innovative combined kernel extreme learning machine and chaos theory,Linyue Zhang,China,School of Statistics,"School of Statistics, Dongbei University of Finance and Economics, 116025, Dalian, China","Honggang Guo a
+, Jianzhou Wang a,*
+, Zhiwu Li b
+, Haiyan Lu c
+, Linyue Zhang a
+a School of Statistics, Dongbei University of Finance and Economics, 116025, Dalian, China b Institute of Systems Engineering, Macau University of Science and Technology, Macau, 999078, China c Department of Software Engineering, University of Technology Sydney, Sydney, Australia ",,,,,,,
+40,WOS:000549854400025 (https://www.notion.so/WOS-000549854400025-1200ee199b1d81e0a0e4ce896450d4a0?pvs=21),Multivariate Financial Time-Series Prediction With Certified Robustness,HUI LI,China,School of Labor Economics,"School of Labor Economics, Capital University of Economies and Business, Beijing 100026, China","HUI LI1
+, YUNPENG CUI2,7, SHUO WANG 3,4, (Member, IEEE),
+JUAN LIU2,7, JINYUAN QIN5
+, AND YILIN YANG6
+1School of Labor Economics, Capital University of Economies and Business, Beijing 100026, China
+2Key Laboratory of Agricultural Big Data, Ministry of Agriculture and Rural, Beijing 100081, China
+3Faculty of Information Technology, Monash University, Melbourne, VIC 3800, Australia
+4CSIRO, Canberra, ACT 2601, Australia
+5Faculty of Business and Economics, University of Melbourne, Melbourne, VIC 3010, Australia
+6Faculty of Science, The University of British Columbia, Vancouver, BC V6T 1Z4, Canada
+7Agriculture Information Institute, Chinese Academy of Agricultural Sciences, Beijing 100081, China",,,,,,,
+40,WOS:000549854400025 (https://www.notion.so/WOS-000549854400025-1200ee199b1d81e0a0e4ce896450d4a0?pvs=21),Multivariate Financial Time-Series Prediction With Certified Robustness,YUNPENG CUI,China,Key Laboratory of Agricultural Big Data,"Key Laboratory of Agricultural Big Data, Ministry of Agriculture and Rural, Beijing 100081, China","HUI LI1
+, YUNPENG CUI2,7, SHUO WANG 3,4, (Member, IEEE),
+JUAN LIU2,7, JINYUAN QIN5
+, AND YILIN YANG6
+1School of Labor Economics, Capital University of Economies and Business, Beijing 100026, China
+2Key Laboratory of Agricultural Big Data, Ministry of Agriculture and Rural, Beijing 100081, China
+3Faculty of Information Technology, Monash University, Melbourne, VIC 3800, Australia
+4CSIRO, Canberra, ACT 2601, Australia
+5Faculty of Business and Economics, University of Melbourne, Melbourne, VIC 3010, Australia
+6Faculty of Science, The University of British Columbia, Vancouver, BC V6T 1Z4, Canada
+7Agriculture Information Institute, Chinese Academy of Agricultural Sciences, Beijing 100081, China",,Agriculture Information Institute,"Agriculture Information Institute, Chinese Academy of Agricultural Sciences, Beijing 100081, China",,,,
+40,WOS:000549854400025 (https://www.notion.so/WOS-000549854400025-1200ee199b1d81e0a0e4ce896450d4a0?pvs=21),Multivariate Financial Time-Series Prediction With Certified Robustness,SHUO WANG,Australia,Faculty of Information Technology,"Faculty of Information Technology, Monash University, Melbourne, VIC 3800, Australia","HUI LI1
+, YUNPENG CUI2,7, SHUO WANG 3,4, (Member, IEEE),
+JUAN LIU2,7, JINYUAN QIN5
+, AND YILIN YANG6
+1School of Labor Economics, Capital University of Economies and Business, Beijing 100026, China
+2Key Laboratory of Agricultural Big Data, Ministry of Agriculture and Rural, Beijing 100081, China
+3Faculty of Information Technology, Monash University, Melbourne, VIC 3800, Australia
+4CSIRO, Canberra, ACT 2601, Australia
+5Faculty of Business and Economics, University of Melbourne, Melbourne, VIC 3010, Australia
+6Faculty of Science, The University of British Columbia, Vancouver, BC V6T 1Z4, Canada
+7Agriculture Information Institute, Chinese Academy of Agricultural Sciences, Beijing 100081, China",,CSIRO,"4CSIRO, Canberra, ACT 2601, Australia",,,,
+40,WOS:000549854400025 (https://www.notion.so/WOS-000549854400025-1200ee199b1d81e0a0e4ce896450d4a0?pvs=21),Multivariate Financial Time-Series Prediction With Certified Robustness,JUAN LIU,China,Key Laboratory of Agricultural Big Data,"Key Laboratory of Agricultural Big Data, Ministry of Agriculture and Rural, Beijing 100081, China","HUI LI1
+, YUNPENG CUI2,7, SHUO WANG 3,4, (Member, IEEE),
+JUAN LIU2,7, JINYUAN QIN5
+, AND YILIN YANG6
+1School of Labor Economics, Capital University of Economies and Business, Beijing 100026, China
+2Key Laboratory of Agricultural Big Data, Ministry of Agriculture and Rural, Beijing 100081, China
+3Faculty of Information Technology, Monash University, Melbourne, VIC 3800, Australia
+4CSIRO, Canberra, ACT 2601, Australia
+5Faculty of Business and Economics, University of Melbourne, Melbourne, VIC 3010, Australia
+6Faculty of Science, The University of British Columbia, Vancouver, BC V6T 1Z4, Canada
+7Agriculture Information Institute, Chinese Academy of Agricultural Sciences, Beijing 100081, China",,,,,,,
+40,WOS:000549854400025 (https://www.notion.so/WOS-000549854400025-1200ee199b1d81e0a0e4ce896450d4a0?pvs=21),Multivariate Financial Time-Series Prediction With Certified Robustness," JINYUAN QIN",Australia,Faculty of Business and Economics,"Faculty of Business and Economics, University of Melbourne, Melbourne, VIC 3010, Australia","HUI LI1
+, YUNPENG CUI2,7, SHUO WANG 3,4, (Member, IEEE),
+JUAN LIU2,7, JINYUAN QIN5
+, AND YILIN YANG6
+1School of Labor Economics, Capital University of Economies and Business, Beijing 100026, China
+2Key Laboratory of Agricultural Big Data, Ministry of Agriculture and Rural, Beijing 100081, China
+3Faculty of Information Technology, Monash University, Melbourne, VIC 3800, Australia
+4CSIRO, Canberra, ACT 2601, Australia
+5Faculty of Business and Economics, University of Melbourne, Melbourne, VIC 3010, Australia
+6Faculty of Science, The University of British Columbia, Vancouver, BC V6T 1Z4, Canada
+7Agriculture Information Institute, Chinese Academy of Agricultural Sciences, Beijing 100081, China",,,,,,,
+40,WOS:000549854400025 (https://www.notion.so/WOS-000549854400025-1200ee199b1d81e0a0e4ce896450d4a0?pvs=21),Multivariate Financial Time-Series Prediction With Certified Robustness,YILIN YANG,Canada,Faculty of Science,"Faculty of Science, The University of British Columbia, Vancouver, BC V6T 1Z4, Canada","HUI LI1
+, YUNPENG CUI2,7, SHUO WANG 3,4, (Member, IEEE),
+JUAN LIU2,7, JINYUAN QIN5
+, AND YILIN YANG6
+1School of Labor Economics, Capital University of Economies and Business, Beijing 100026, China
+2Key Laboratory of Agricultural Big Data, Ministry of Agriculture and Rural, Beijing 100081, China
+3Faculty of Information Technology, Monash University, Melbourne, VIC 3800, Australia
+4CSIRO, Canberra, ACT 2601, Australia
+5Faculty of Business and Economics, University of Melbourne, Melbourne, VIC 3010, Australia
+6Faculty of Science, The University of British Columbia, Vancouver, BC V6T 1Z4, Canada
+7Agriculture Information Institute, Chinese Academy of Agricultural Sciences, Beijing 100081, China",,,,,,,
+41,WOS:001302798700001 (https://www.notion.so/WOS-001302798700001-1200ee199b1d81718cdbd738ba4d6cc8?pvs=21),Quantifying credit portfolio sensitivity toasset correlations with interpretablegenerative neural networks,Sergio Caprioli,Italy,Statistics and Corporate Strategies and and Information Technologies and Risk Management,"Intesa Sanpaolo S.P.A., Milano MI - 20121, Italy","Sergio Caprioli1,∗,†
+, Emanuele Cagliero2,†
+and Riccardo Crupi2,†
+1
+Intesa Sanpaolo S.P.A., Milano MI - 20121, Italy
+2
+Intesa Sanpaolo S.P.A., Torino TO - 10138, Italy",,,,,,,
+41,WOS:001302798700001 (https://www.notion.so/WOS-001302798700001-1200ee199b1d81718cdbd738ba4d6cc8?pvs=21),Quantifying credit portfolio sensitivity toasset correlations with interpretablegenerative neural networks,Emanuele Cagliero,Italy,Operational Risks Internal Validation department and validation of quantitative models for financial institutions,"Intesa Sanpaolo S.P.A., Torino TO - 10138, Italy","Sergio Caprioli1,∗,†
+, Emanuele Cagliero2,†
+and Riccardo Crupi2,†
+1
+Intesa Sanpaolo S.P.A., Milano MI - 20121, Italy
+2
+Intesa Sanpaolo S.P.A., Torino TO - 10138, Italy",,,,,,,
+41,WOS:001302798700001 (https://www.notion.so/WOS-001302798700001-1200ee199b1d81718cdbd738ba4d6cc8?pvs=21),Quantifying credit portfolio sensitivity toasset correlations with interpretablegenerative neural networks,Riccardo Crupi,Italy,Data Science & AI,"Intesa Sanpaolo S.P.A., Torino TO - 10138, Italy","Sergio Caprioli1,∗,†
+, Emanuele Cagliero2,†
+and Riccardo Crupi2,†
+1
+Intesa Sanpaolo S.P.A., Milano MI - 20121, Italy
+2
+Intesa Sanpaolo S.P.A., Torino TO - 10138, Italy",,,,,,,
+42,WOS:000574481400002 (https://www.notion.so/WOS-000574481400002-1200ee199b1d816c8cb3da2774ecf0a0?pvs=21),Enhancing profit from stock transactions using neural networks,Ahana Roy Choudhury,USA,Department of Computer Science,"Department of Computer Science, Florida State University, FL, USA","Ahana Roy Choudhury ∗, Soheila Abrishami, Michael Turek and Piyush Kumar
+Department of Computer Science, Florida State University, FL, USA",,,,,,,
+42,WOS:000574481400002 (https://www.notion.so/WOS-000574481400002-1200ee199b1d816c8cb3da2774ecf0a0?pvs=21),Enhancing profit from stock transactions using neural networks,Soheila Abrishami,USA,Department of Computer Science,"Department of Computer Science, Florida State University, FL, USA","Ahana Roy Choudhury ∗, Soheila Abrishami, Michael Turek and Piyush Kumar
+Department of Computer Science, Florida State University, FL, USA",,,,,,,
+42,WOS:000574481400002 (https://www.notion.so/WOS-000574481400002-1200ee199b1d816c8cb3da2774ecf0a0?pvs=21),Enhancing profit from stock transactions using neural networks,Michael Turek,USA,Department of Computer Science,"Department of Computer Science, Florida State University, FL, USA","Ahana Roy Choudhury ∗, Soheila Abrishami, Michael Turek and Piyush Kumar
+Department of Computer Science, Florida State University, FL, USA",,,,,,,
+42,WOS:000574481400002 (https://www.notion.so/WOS-000574481400002-1200ee199b1d816c8cb3da2774ecf0a0?pvs=21),Enhancing profit from stock transactions using neural networks,Piyush Kumar,USA,Department of Computer Science,"Department of Computer Science, Florida State University, FL, USA","Ahana Roy Choudhury ∗, Soheila Abrishami, Michael Turek and Piyush Kumar
+Department of Computer Science, Florida State University, FL, USA",,,,,,,
+43,10.1371/journal.pone.0308488 (https://www.notion.so/10-1371-journal-pone-0308488-1200ee199b1d8164be9ec35be7c5f702?pvs=21),Period-aggregated transformer for learning latent seasonalities in long-horizon financial time series,Zhenyang Tang,China,Southwestern University of Finance and Economics,"Southwestern University of Finance and Economics, Chengdu, China","Zhenyang TangID*, Jinshui Huang, Denisa Rinprasertmeechai
+Southwestern University of Finance and Economics, Chengdu, China",,,,,,,
+43,10.1371/journal.pone.0308488 (https://www.notion.so/10-1371-journal-pone-0308488-1200ee199b1d8164be9ec35be7c5f702?pvs=21),Period-aggregated transformer for learning latent seasonalities in long-horizon financial time series,Jinshui Huang,China,Southwestern University of Finance and Economics,"Southwestern University of Finance and Economics, Chengdu, China","Zhenyang TangID*, Jinshui Huang, Denisa Rinprasertmeechai
+Southwestern University of Finance and Economics, Chengdu, China",,,,,,,
+43,10.1371/journal.pone.0308488 (https://www.notion.so/10-1371-journal-pone-0308488-1200ee199b1d8164be9ec35be7c5f702?pvs=21),Period-aggregated transformer for learning latent seasonalities in long-horizon financial time series,Denisa Rinprasertmeechai,China,Southwestern University of Finance and Economics,"Southwestern University of Finance and Economics, Chengdu, China","Zhenyang TangID*, Jinshui Huang, Denisa Rinprasertmeechai
+Southwestern University of Finance and Economics, Chengdu, China",,,,,,,
+44,WOS:000336054200005 (https://www.notion.so/WOS-000336054200005-1200ee199b1d811abad4d2fa521f9daa?pvs=21),Gaussian Process-Mixture Conditional Heteroscedasticity,Emmanouil A. Platanios,USA,Department of Machine Learning,"Department of Machine Learning,
+Carnegie Mellon University, Pittsburgh, PA 15213 USA","Emmanouil A. Platanios is with the Department of Machine Learning,
+Carnegie Mellon University, Pittsburgh, PA 15213 USA.
+E-mail: mailto:e.a.platanios@gmail.com.
+• Sotirios P. Chatzis is with the Department of Electrical Engineering,
+Computer Engineering, and Informatics, Cyprus University of
+Technology, Limassol 3036, Cyprus. E-mail: mailto:soteri0s@me.com.",,,,,,,
+44,WOS:000336054200005 (https://www.notion.so/WOS-000336054200005-1200ee199b1d811abad4d2fa521f9daa?pvs=21),Gaussian Process-Mixture Conditional Heteroscedasticity,Sotirios P. Chatzis,Cyprus,"Department of Electrical Engineering,
+Computer Engineering, and Informatics"," Department of Electrical Engineering,
+Computer Engineering, and Informatics, Cyprus University of
+Technology, Limassol 3036, Cyprus. E-mail: mailto:soteri0s@me.com.","Emmanouil A. Platanios is with the Department of Machine Learning,
+Carnegie Mellon University, Pittsburgh, PA 15213 USA.
+E-mail: mailto:e.a.platanios@gmail.com.
+• Sotirios P. Chatzis is with the Department of Electrical Engineering,
+Computer Engineering, and Informatics, Cyprus University of
+Technology, Limassol 3036, Cyprus. E-mail: mailto:soteri0s@me.com.",,,,,,,
+45,https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10083301 (https://www.notion.so/https-ieeexplore-ieee-org-stamp-stamp-jsp-arnumber-10083301-1200ee199b1d81c3baa4f84f11b7ac47?pvs=21),Portfolio Selection via Graph-Aware Gaussian Processes With Generalized Gaussian Likelihood,Naiqi Li,China,Data science and information technology,"Shenzhen International Graduate School, Tsinghua University, Shenzhen
+518055, China","Naiqi Li, Zhikang Xia, Yiming Li, and Ercan E. Kuruo ˘glu are with
+the Shenzhen International Graduate School, Tsinghua University, Shenzhen
+518055, China (e-mail: mailto:linaiqi.thu@gmail.com; mailto:xzk19@mails.tsinghua.edu.cn;
+mailto:li-ym18@mails.tsinghua.edu.cn; mailto:kuruoglu@sz.tsinghua.edu.cn).
+Yong Jiang and Shu-Tao Xia are with the Shenzhen International Graduate School, Tsinghua University, Shenzhen 518055, China, and also with the
+Research Center of Artificial Intelligence, Peng Cheng Laboratory, Shenzhen
+518066, China (e-mail: mailto:jiangy@sz.tsinghua.edu.cn; mailto:xiast@sz.tsinghua.edu.cn).
+Digital Object Identifier 10.1109/TAI.2023.3262456",,,,,,,
+45,https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10083301 (https://www.notion.so/https-ieeexplore-ieee-org-stamp-stamp-jsp-arnumber-10083301-1200ee199b1d81c3baa4f84f11b7ac47?pvs=21),Portfolio Selection via Graph-Aware Gaussian Processes With Generalized Gaussian Likelihood,Zhikang Xia,China,Computer Science and Technology,"Shenzhen International Graduate School, Tsinghua University, Shenzhen
+518055, China","Naiqi Li, Zhikang Xia, Yiming Li, and Ercan E. Kuruo ˘glu are with
+the Shenzhen International Graduate School, Tsinghua University, Shenzhen
+518055, China (e-mail: mailto:linaiqi.thu@gmail.com; mailto:xzk19@mails.tsinghua.edu.cn;
+mailto:li-ym18@mails.tsinghua.edu.cn; mailto:kuruoglu@sz.tsinghua.edu.cn).
+Yong Jiang and Shu-Tao Xia are with the Shenzhen International Graduate School, Tsinghua University, Shenzhen 518055, China, and also with the
+Research Center of Artificial Intelligence, Peng Cheng Laboratory, Shenzhen
+518066, China (e-mail: mailto:jiangy@sz.tsinghua.edu.cn; mailto:xiast@sz.tsinghua.edu.cn).
+Digital Object Identifier 10.1109/TAI.2023.3262456",,,,,,,
+45,https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10083301 (https://www.notion.so/https-ieeexplore-ieee-org-stamp-stamp-jsp-arnumber-10083301-1200ee199b1d81c3baa4f84f11b7ac47?pvs=21),Portfolio Selection via Graph-Aware Gaussian Processes With Generalized Gaussian Likelihood,Yiming Li,China,"Computer Science and Technology and security ","Shenzhen International Graduate School, Tsinghua University, Shenzhen
+518055, China","Naiqi Li, Zhikang Xia, Yiming Li, and Ercan E. Kuruo ˘glu are with
+the Shenzhen International Graduate School, Tsinghua University, Shenzhen
+518055, China (e-mail: mailto:linaiqi.thu@gmail.com; mailto:xzk19@mails.tsinghua.edu.cn;
+mailto:li-ym18@mails.tsinghua.edu.cn; mailto:kuruoglu@sz.tsinghua.edu.cn).
+Yong Jiang and Shu-Tao Xia are with the Shenzhen International Graduate School, Tsinghua University, Shenzhen 518055, China, and also with the
+Research Center of Artificial Intelligence, Peng Cheng Laboratory, Shenzhen
+518066, China (e-mail: mailto:jiangy@sz.tsinghua.edu.cn; mailto:xiast@sz.tsinghua.edu.cn).
+Digital Object Identifier 10.1109/TAI.2023.3262456",,,,,,,
+45,https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10083301 (https://www.notion.so/https-ieeexplore-ieee-org-stamp-stamp-jsp-arnumber-10083301-1200ee199b1d81c3baa4f84f11b7ac47?pvs=21),Portfolio Selection via Graph-Aware Gaussian Processes With Generalized Gaussian Likelihood,Ercan E. Kuruo ˘glu,China,"Data/Information Science, Machine Learning","Shenzhen International Graduate School, Tsinghua University, Shenzhen
+518055, China","Naiqi Li, Zhikang Xia, Yiming Li, and Ercan E. Kuruo ˘glu are with
+the Shenzhen International Graduate School, Tsinghua University, Shenzhen
+518055, China (e-mail: mailto:linaiqi.thu@gmail.com; mailto:xzk19@mails.tsinghua.edu.cn;
+mailto:li-ym18@mails.tsinghua.edu.cn; mailto:kuruoglu@sz.tsinghua.edu.cn).
+Yong Jiang and Shu-Tao Xia are with the Shenzhen International Graduate School, Tsinghua University, Shenzhen 518055, China, and also with the
+Research Center of Artificial Intelligence, Peng Cheng Laboratory, Shenzhen
+518066, China (e-mail: mailto:jiangy@sz.tsinghua.edu.cn; mailto:xiast@sz.tsinghua.edu.cn).
+Digital Object Identifier 10.1109/TAI.2023.3262456",,,,,,,
+45,https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10083301 (https://www.notion.so/https-ieeexplore-ieee-org-stamp-stamp-jsp-arnumber-10083301-1200ee199b1d81c3baa4f84f11b7ac47?pvs=21),Portfolio Selection via Graph-Aware Gaussian Processes With Generalized Gaussian Likelihood,"Yong Jiang ",China,Computer Science and Technology,"Shenzhen International Graduate School, Tsinghua University, Shenzhen 518055, China","Naiqi Li, Zhikang Xia, Yiming Li, and Ercan E. Kuruo ˘glu are with
+the Shenzhen International Graduate School, Tsinghua University, Shenzhen
+518055, China (e-mail: mailto:linaiqi.thu@gmail.com; mailto:xzk19@mails.tsinghua.edu.cn;
+mailto:li-ym18@mails.tsinghua.edu.cn; mailto:kuruoglu@sz.tsinghua.edu.cn).
+Yong Jiang and Shu-Tao Xia are with the Shenzhen International Graduate School, Tsinghua University, Shenzhen 518055, China, and also with the
+Research Center of Artificial Intelligence, Peng Cheng Laboratory, Shenzhen
+518066, China (e-mail: mailto:jiangy@sz.tsinghua.edu.cn; mailto:xiast@sz.tsinghua.edu.cn).
+Digital Object Identifier 10.1109/TAI.2023.3262456",,Research Center of Artificial Intelligence,"Research Center of Artificial Intelligence, Peng Cheng Laboratory, Shenzhen
+518066, China",,,,
+45,https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10083301 (https://www.notion.so/https-ieeexplore-ieee-org-stamp-stamp-jsp-arnumber-10083301-1200ee199b1d81c3baa4f84f11b7ac47?pvs=21),Portfolio Selection via Graph-Aware Gaussian Processes With Generalized Gaussian Likelihood,Shu-Tao Xia,China,Institute of Computer Science and Technology,"Shenzhen International Graduate School, Tsinghua University, Shenzhen 518055, China","Naiqi Li, Zhikang Xia, Yiming Li, and Ercan E. Kuruo ˘glu are with
+the Shenzhen International Graduate School, Tsinghua University, Shenzhen
+518055, China (e-mail: mailto:linaiqi.thu@gmail.com; mailto:xzk19@mails.tsinghua.edu.cn;
+mailto:li-ym18@mails.tsinghua.edu.cn; mailto:kuruoglu@sz.tsinghua.edu.cn).
+Yong Jiang and Shu-Tao Xia are with the Shenzhen International Graduate School, Tsinghua University, Shenzhen 518055, China, and also with the
+Research Center of Artificial Intelligence, Peng Cheng Laboratory, Shenzhen
+518066, China (e-mail: mailto:jiangy@sz.tsinghua.edu.cn; mailto:xiast@sz.tsinghua.edu.cn).
+Digital Object Identifier 10.1109/TAI.2023.3262456",,Research Center of Artificial Intelligence,"Research Center of Artificial Intelligence, Peng Cheng Laboratory, Shenzhen
+518066, China",,,,
+46,WOS:001246495900002 (https://www.notion.so/WOS-001246495900002-1130ee199b1d817ab8f6de72969b703e?pvs=21),Forecasting VIX using Bayesian deep learning,Héctor J. Hortúa,Colombia,Departamento de Matemáticas,"Grupo Signos, Departamento de Matemáticas, Universidad El
+Bosque, Bogotá 11001, Colombia","Andrés Mora-Valencia
+mailto:a.mora262@uniandes.edu.co
+Héctor J. Hortúa
+mailto:hhortuao@unbosque.edu.co
+1 Grupo Signos, Departamento de Matemáticas, Universidad El
+Bosque, Bogotá 11001, Colombia
+2 Maestría en Estadística Aplicada y Ciencia de Datos,
+Universidad El Bosque, Bogotá 11001, Colombia
+3 School of Management, Universidad de los Andes, Calle 21 #
+1-20, Bogotá 111711, Colombia
+",,,,,,,
+46,WOS:001246495900002 (https://www.notion.so/WOS-001246495900002-1130ee199b1d817ab8f6de72969b703e?pvs=21),Forecasting VIX using Bayesian deep learning,Andrés Mora-Valencia,Colombia,School of Management,"School of Management, Universidad de los Andes, Calle 21 #
+1-20, Bogotá 111711, Colombia
+","Andrés Mora-Valencia
+mailto:a.mora262@uniandes.edu.co
+Héctor J. Hortúa
+mailto:hhortuao@unbosque.edu.co
+1 Grupo Signos, Departamento de Matemáticas, Universidad El
+Bosque, Bogotá 11001, Colombia
+2 Maestría en Estadística Aplicada y Ciencia de Datos,
+Universidad El Bosque, Bogotá 11001, Colombia
+3 School of Management, Universidad de los Andes, Calle 21 #
+1-20, Bogotá 111711, Colombia
+",,Applied Statistics and Data Science,"Maestría en Estadística Aplicada y Ciencia de Datos,
+Universidad El Bosque, Bogotá 11001, Colombia",,,,
+47,WOS:000891788100011 (https://www.notion.so/WOS-000891788100011-1130ee199b1d81638b77f8ed59ca52f4?pvs=21),Volatility index prediction based on a hybrid deep learning system with multi-objective optimization and mode decomposition,Chaonan Tian,China,"Business, Finance and Economics"," Zhengzhou Business University, Zhengzhou 451200, China b","Chaonan Tian a
+, Tong Niu b,*
+, Wei Wei b
+a Zhengzhou Business University, Zhengzhou 451200, China b Center for Energy, Environment & Economy Research, School of Management, Zhengzhou University, Zhengzhou 450001, China",,,,,,,
+47,WOS:000891788100011 (https://www.notion.so/WOS-000891788100011-1130ee199b1d81638b77f8ed59ca52f4?pvs=21),Volatility index prediction based on a hybrid deep learning system with multi-objective optimization and mode decomposition,Tong Niu,China," Environment & Economy Research","Center for Energy, Environment & Economy Research, School of Management, Zhengzhou University, Zhengzhou 450001, China","Chaonan Tian a
+, Tong Niu b,*
+, Wei Wei b
+a Zhengzhou Business University, Zhengzhou 451200, China b Center for Energy, Environment & Economy Research, School of Management, Zhengzhou University, Zhengzhou 450001, China",,,,,,,
+47,WOS:000891788100011 (https://www.notion.so/WOS-000891788100011-1130ee199b1d81638b77f8ed59ca52f4?pvs=21),Volatility index prediction based on a hybrid deep learning system with multi-objective optimization and mode decomposition,Wei Wei,China," Environment & Economy Research","Center for Energy, Environment & Economy Research, School of Management, Zhengzhou University, Zhengzhou 450001, China","Chaonan Tian a
+, Tong Niu b,*
+, Wei Wei b
+a Zhengzhou Business University, Zhengzhou 451200, China b Center for Energy, Environment & Economy Research, School of Management, Zhengzhou University, Zhengzhou 450001, China",,,,,,,
+48,WOS:000444498300002 (https://www.notion.so/WOS-000444498300002-1130ee199b1d812b92d0c81ffbf7b5b8?pvs=21),"Machine learning for quantitative finance: fast derivative pricing, hedging and fitting",JAN DE SPIEGELEER,Belgium,Risk Concile,"Risk Concile, B-3001 Leuven, Kapeldreef 60, Belgium","JAN DE SPIEGELEER†, DILIP B. MADAN ‡, SOFIE REYNERS§ and WIM SCHOUTENS*§
+†Risk Concile, B-3001 Leuven, Kapeldreef 60, Belgium
+‡Robert H. Smith School of Business University of Maryland College Park, MD. 20742 College Park, MD, USA
+§Department of Mathematics, University of Leuven, Celestijnenlaan 200B, B-3001 Leuven, Belgium",,,,,,,
+48,WOS:000444498300002 (https://www.notion.so/WOS-000444498300002-1130ee199b1d812b92d0c81ffbf7b5b8?pvs=21),"Machine learning for quantitative finance: fast derivative pricing, hedging and fitting",DILIP B. MADAN,USA,School of Business,"Robert H. Smith School of Business University of Maryland College Park, MD. 20742 College Park, MD, USA","JAN DE SPIEGELEER†, DILIP B. MADAN ‡, SOFIE REYNERS§ and WIM SCHOUTENS*§
+†Risk Concile, B-3001 Leuven, Kapeldreef 60, Belgium
+‡Robert H. Smith School of Business University of Maryland College Park, MD. 20742 College Park, MD, USA
+§Department of Mathematics, University of Leuven, Celestijnenlaan 200B, B-3001 Leuven, Belgium",,,,,,,
+48,WOS:000444498300002 (https://www.notion.so/WOS-000444498300002-1130ee199b1d812b92d0c81ffbf7b5b8?pvs=21),"Machine learning for quantitative finance: fast derivative pricing, hedging and fitting"," SOFIE REYNERS",Belgium,Department of Mathematics,"Department of Mathematics, University of Leuven, Celestijnenlaan 200B, B-3001 Leuven, Belgium","JAN DE SPIEGELEER†, DILIP B. MADAN ‡, SOFIE REYNERS§ and WIM SCHOUTENS*§
+†Risk Concile, B-3001 Leuven, Kapeldreef 60, Belgium
+‡Robert H. Smith School of Business University of Maryland College Park, MD. 20742 College Park, MD, USA
+§Department of Mathematics, University of Leuven, Celestijnenlaan 200B, B-3001 Leuven, Belgium",,,,,,,
+48,WOS:000444498300002 (https://www.notion.so/WOS-000444498300002-1130ee199b1d812b92d0c81ffbf7b5b8?pvs=21),"Machine learning for quantitative finance: fast derivative pricing, hedging and fitting",WIM SCHOUTENS,Belgium,Department of Mathematics,"Department of Mathematics, University of Leuven, Celestijnenlaan 200B, B-3001 Leuven, Belgium","JAN DE SPIEGELEER†, DILIP B. MADAN ‡, SOFIE REYNERS§ and WIM SCHOUTENS*§
+†Risk Concile, B-3001 Leuven, Kapeldreef 60, Belgium
+‡Robert H. Smith School of Business University of Maryland College Park, MD. 20742 College Park, MD, USA
+§Department of Mathematics, University of Leuven, Celestijnenlaan 200B, B-3001 Leuven, Belgium",,,,,,,
+49,WOS:000456228800001 (https://www.notion.so/WOS-000456228800001-1130ee199b1d81388991c7d24524c74c?pvs=21),High-order Hidden Markov Model for trend prediction in financial time series,Mengqi Zhang,China," Beijing Advanced Innovation Center for Big Data and Brain Computing","Beijing Advanced Innovation Center for Big Data and Brain Computing (BDBC), China","Mengqi Zhang a,b
+, Xin Jiang a,b,∗
+, Zehua Fang b
+, Yue Zeng b
+, Ke Xu a,c
+a Beijing Advanced Innovation Center for Big Data and Brain Computing (BDBC), China
+b
+LMIB & School of Mathematics and Systems Science, Beihang University, 100191, Beijing, China
+c
+School of Computer Science and Engineering, Beihang University, 100191, Beijing, China
+",,LMIB & School of Mathematics and Systems Science,"
+LMIB & School of Mathematics and Systems Science, Beihang University, 100191, Beijing, China",,,,
+49,WOS:000456228800001 (https://www.notion.so/WOS-000456228800001-1130ee199b1d81388991c7d24524c74c?pvs=21),High-order Hidden Markov Model for trend prediction in financial time series," Xin Jiang",China," Beijing Advanced Innovation Center for Big Data and Brain Computing","Beijing Advanced Innovation Center for Big Data and Brain Computing (BDBC), China","Mengqi Zhang a,b
+, Xin Jiang a,b,∗
+, Zehua Fang b
+, Yue Zeng b
+, Ke Xu a,c
+a Beijing Advanced Innovation Center for Big Data and Brain Computing (BDBC), China
+b
+LMIB & School of Mathematics and Systems Science, Beihang University, 100191, Beijing, China
+c
+School of Computer Science and Engineering, Beihang University, 100191, Beijing, China
+",,,,,,,
+49,WOS:000456228800001 (https://www.notion.so/WOS-000456228800001-1130ee199b1d81388991c7d24524c74c?pvs=21),High-order Hidden Markov Model for trend prediction in financial time series,Zehua Fang,China,LMIB & School of Mathematics and Systems Science,"
+LMIB & School of Mathematics and Systems Science, Beihang University, 100191, Beijing, China","Mengqi Zhang a,b
+, Xin Jiang a,b,∗
+, Zehua Fang b
+, Yue Zeng b
+, Ke Xu a,c
+a Beijing Advanced Innovation Center for Big Data and Brain Computing (BDBC), China
+b
+LMIB & School of Mathematics and Systems Science, Beihang University, 100191, Beijing, China
+c
+School of Computer Science and Engineering, Beihang University, 100191, Beijing, China
+",,,,,,,
+49,WOS:000456228800001 (https://www.notion.so/WOS-000456228800001-1130ee199b1d81388991c7d24524c74c?pvs=21),High-order Hidden Markov Model for trend prediction in financial time series,Yue Zeng,China,LMIB & School of Mathematics and Systems Science,"LMIB & School of Mathematics and Systems Science, Beihang University, 100191, Beijing, China","Mengqi Zhang a,b
+, Xin Jiang a,b,∗
+, Zehua Fang b
+, Yue Zeng b
+, Ke Xu a,c
+a Beijing Advanced Innovation Center for Big Data and Brain Computing (BDBC), China
+b
+LMIB & School of Mathematics and Systems Science, Beihang University, 100191, Beijing, China
+c
+School of Computer Science and Engineering, Beihang University, 100191, Beijing, China
+",,,,,,,
+49,WOS:000456228800001 (https://www.notion.so/WOS-000456228800001-1130ee199b1d81388991c7d24524c74c?pvs=21),High-order Hidden Markov Model for trend prediction in financial time series,Ke Xu,China," Beijing Advanced Innovation Center for Big Data and Brain Computing","Beijing Advanced Innovation Center for Big Data and Brain Computing (BDBC), China","Mengqi Zhang a,b
+, Xin Jiang a,b,∗
+, Zehua Fang b
+, Yue Zeng b
+, Ke Xu a,c
+a Beijing Advanced Innovation Center for Big Data and Brain Computing (BDBC), China
+b
+LMIB & School of Mathematics and Systems Science, Beihang University, 100191, Beijing, China
+c
+School of Computer Science and Engineering, Beihang University, 100191, Beijing, China
+",,School of Computer Science and Engineering,"School of Computer Science and Engineering, Beihang University, 100191, Beijing, China",,,,
+50,WOS:000773704100006 (https://www.notion.so/WOS-000773704100006-1130ee199b1d81c69908d552130eb84a?pvs=21),Research on HMM-Based Efficient Stock Price Prediction,Zhi Su,China,School of Statistics and Mathematics,"School of Statistics and Mathematics, Central University of Finance and Economics, Beijing 100081, China","Zhi Su and Bo Yi
+School of Statistics and Mathematics, Central University of Finance and Economics, Beijing 100081, China",,,,,,,
+50,WOS:000773704100006 (https://www.notion.so/WOS-000773704100006-1130ee199b1d81c69908d552130eb84a?pvs=21),Research on HMM-Based Efficient Stock Price Prediction,Bo Yi,China,School of Statistics and Mathematics,"School of Statistics and Mathematics, Central University of Finance and Economics, Beijing 100081, China","Zhi Su and Bo Yi
+School of Statistics and Mathematics, Central University of Finance and Economics, Beijing 100081, China",,,,,,,
+51,https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8887150 (https://www.notion.so/https-ieeexplore-ieee-org-stamp-stamp-jsp-arnumber-8887150-1130ee199b1d816bb159e92fb7e3fd0a?pvs=21),Multi-Layer Coupled Hidden Markov Model for Cross-Market Behavior Analysis and Trend Forecasting,WEI CAO,China,School of Economics,"School of Economics, Hefei University of Technology, Hefei 230009, China","WEI CAO 1
+, WEIDONG ZHU 1
+, AND YVES DEMAZEAU2
+1School of Economics, Hefei University of Technology, Hefei 230009, China
+2CNRS-LIG, Université Grenoble Alpes, BP 53-38041 Grenoble, France
+",,,,,,,
+51,https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8887150 (https://www.notion.so/https-ieeexplore-ieee-org-stamp-stamp-jsp-arnumber-8887150-1130ee199b1d816bb159e92fb7e3fd0a?pvs=21),Multi-Layer Coupled Hidden Markov Model for Cross-Market Behavior Analysis and Trend Forecasting,WEIDONG ZHU,China,School of Economics,"School of Economics, Hefei University of Technology, Hefei 230009, China","WEI CAO 1
+, WEIDONG ZHU 1
+, AND YVES DEMAZEAU2
+1School of Economics, Hefei University of Technology, Hefei 230009, China
+2CNRS-LIG, Université Grenoble Alpes, BP 53-38041 Grenoble, France
+",,,,,,,
+51,https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8887150 (https://www.notion.so/https-ieeexplore-ieee-org-stamp-stamp-jsp-arnumber-8887150-1130ee199b1d816bb159e92fb7e3fd0a?pvs=21),Multi-Layer Coupled Hidden Markov Model for Cross-Market Behavior Analysis and Trend Forecasting,YVES DEMAZEAU,France,CNRS-LIG,"CNRS-LIG, Université Grenoble Alpes, BP 53-38041 Grenoble, France","WEI CAO 1
+, WEIDONG ZHU 1
+, AND YVES DEMAZEAU2
+1School of Economics, Hefei University of Technology, Hefei 230009, China
+2CNRS-LIG, Université Grenoble Alpes, BP 53-38041 Grenoble, France
+",,,,,,,
+52,2-s2.0-79957931366 (https://www.notion.so/2-s2-0-79957931366-1310ee199b1d813ab703f20c3e7ecd39?pvs=21),Neural networks and investor sentiment measures for stock market trend prediction,SALIM LAHMIRI,Canada,Department of Computer Science,"Department of Computer Science, UQAM, Montreal, Canada","SALIM LAHMIRI
+Department of Computer Science, UQAM, Montreal, Canada ",,,,,,,
+53,WOS:000717914600001 (https://www.notion.so/WOS-000717914600001-10c0ee199b1d817c9ccdd78eec39e80c?pvs=21),Deep Nonlinear Ensemble Framework for Stock Index Forecasting and Uncertainty Analysis,Jujie Wang,China,School of Management Science and Engineering,"School of Management Science and Engineering, Nanjing
+University of Information Science and Technology,
+Nanjing 210044, China","Jujie Wang1
+· Liu Feng2
+· Yang Li2
+· Junjie He3
+· Chunchen Feng
+
+Jujie Wang
+mailto:jujiewang@126.com
+1 School of Management Science and Engineering, Nanjing
+University of Information Science and Technology,
+Nanjing 210044, China
+2 Changwang School of Honors, Nanjing University
+of Information Science and Technology, Nanjing 210044,
+China
+3 School of Computer and Software, Nanjing University
+of Information Science and Technology, Nanjing 210044,
+China",,,,,,,
+53,WOS:000717914600001 (https://www.notion.so/WOS-000717914600001-10c0ee199b1d817c9ccdd78eec39e80c?pvs=21),Deep Nonlinear Ensemble Framework for Stock Index Forecasting and Uncertainty Analysis," Liu Feng",China,"Changwang School of Honors,","Changwang School of Honors, Nanjing University
+of Information Science and Technology, Nanjing 210044,
+Chin","Jujie Wang1
+· Liu Feng2
+· Yang Li2
+· Junjie He3
+· Chunchen Feng
+
+Jujie Wang
+mailto:jujiewang@126.com
+1 School of Management Science and Engineering, Nanjing
+University of Information Science and Technology,
+Nanjing 210044, China
+2 Changwang School of Honors, Nanjing University
+of Information Science and Technology, Nanjing 210044,
+China
+3 School of Computer and Software, Nanjing University
+of Information Science and Technology, Nanjing 210044,
+China",,,,,,,
+53,WOS:000717914600001 (https://www.notion.so/WOS-000717914600001-10c0ee199b1d817c9ccdd78eec39e80c?pvs=21),Deep Nonlinear Ensemble Framework for Stock Index Forecasting and Uncertainty Analysis,Yang Li,China,"Changwang School of Honors,","Changwang School of Honors, Nanjing University
+of Information Science and Technology, Nanjing 210044,
+Chin","Jujie Wang1
+· Liu Feng2
+· Yang Li2
+· Junjie He3
+· Chunchen Feng
+
+Jujie Wang
+mailto:jujiewang@126.com
+1 School of Management Science and Engineering, Nanjing
+University of Information Science and Technology,
+Nanjing 210044, China
+2 Changwang School of Honors, Nanjing University
+of Information Science and Technology, Nanjing 210044,
+China
+3 School of Computer and Software, Nanjing University
+of Information Science and Technology, Nanjing 210044,
+China",,,,,,,
+53,WOS:000717914600001 (https://www.notion.so/WOS-000717914600001-10c0ee199b1d817c9ccdd78eec39e80c?pvs=21),Deep Nonlinear Ensemble Framework for Stock Index Forecasting and Uncertainty Analysis,Junjie He,China,School of Computer and Software,"School of Computer and Software, Nanjing University
+of Information Science and Technology, Nanjing 210044,
+China","Jujie Wang1
+· Liu Feng2
+· Yang Li2
+· Junjie He3
+· Chunchen Feng
+
+Jujie Wang
+mailto:jujiewang@126.com
+1 School of Management Science and Engineering, Nanjing
+University of Information Science and Technology,
+Nanjing 210044, China
+2 Changwang School of Honors, Nanjing University
+of Information Science and Technology, Nanjing 210044,
+China
+3 School of Computer and Software, Nanjing University
+of Information Science and Technology, Nanjing 210044,
+China",,,,,,,
+53,WOS:000717914600001 (https://www.notion.so/WOS-000717914600001-10c0ee199b1d817c9ccdd78eec39e80c?pvs=21),Deep Nonlinear Ensemble Framework for Stock Index Forecasting and Uncertainty Analysis,Chunchen Feng,China,"Changwang School of Honors,","Changwang School of Honors, Nanjing University
+of Information Science and Technology, Nanjing 210044,
+Chin","Jujie Wang1
+· Liu Feng2
+· Yang Li2
+· Junjie He3
+· Chunchen Feng
+
+Jujie Wang
+mailto:jujiewang@126.com
+1 School of Management Science and Engineering, Nanjing
+University of Information Science and Technology,
+Nanjing 210044, China
+2 Changwang School of Honors, Nanjing University
+of Information Science and Technology, Nanjing 210044,
+China
+3 School of Computer and Software, Nanjing University
+of Information Science and Technology, Nanjing 210044,
+China",,,,,,,
+54,https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5356151 (https://www.notion.so/https-ieeexplore-ieee-org-stamp-stamp-jsp-arnumber-5356151-10c0ee199b1d818a8395d499cdf64fc0?pvs=21),A Stochastic HMM-Based Forecasting Model for Fuzzy Time Series,Sheng-Tun Li,Taiwan," Department of International Business Management","Institute of Information Management and the Department
+of Industrial and Information Management, National Cheng Kung University,
+Tainan 701, Taiwan","S.-T. Li is with the Institute of Information Management and the Department
+of Industrial and Information Management, National Cheng Kung University,
+Tainan 701, Taiwan (e-mail: mailto:stli@mail.ncku.edu.tw).
+Y.-C. Cheng is with the Department of International Business Management,
+Tainan University of Technology, Yongkang, Tainan County 710, Taiwan
+(e-mail: mailto:t20042@mail.tut.edu.tw).",,,,,,,
+54,https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5356151 (https://www.notion.so/https-ieeexplore-ieee-org-stamp-stamp-jsp-arnumber-5356151-10c0ee199b1d818a8395d499cdf64fc0?pvs=21),A Stochastic HMM-Based Forecasting Model for Fuzzy Time Series," Yi-Chung Cheng",Taiwan,Tainan University of Technology,"Y.-C. Cheng is with the Department of International Business Management,
+Tainan University of Technology, Yongkang, Tainan County 710, Taiwan
+(e-mail: mailto:t20042@mail.tut.edu.tw).","S.-T. Li is with the Institute of Information Management and the Department
+of Industrial and Information Management, National Cheng Kung University,
+Tainan 701, Taiwan (e-mail: stli@mail.ncku.edu.tw).
+Y.-C. Cheng is with the Department of International Business Management,
+Tainan University of Technology, Yongkang, Tainan County 710, Taiwan
+(e-mail: t20042@mail.tut.edu.tw).",,,,,,,
+55,WOS:000668791400038 (https://www.notion.so/WOS-000668791400038-10c0ee199b1d81e9b119e90804f44bc8?pvs=21),Bayesian neural networks for stock price forecasting before and during COVID-19 pandemic,Rohitash Chandra,Australia,School of Mathematics and Statistics,"School of Mathematics and Statistics, University of New South Wales, Sydney, Australia","Rohitash ChandraID☯*, Yixuan He☯
+School of Mathematics and Statistics, University of New South Wales, Sydney, Australia",,,,,,,
+55,WOS:000668791400038 (https://www.notion.so/WOS-000668791400038-10c0ee199b1d81e9b119e90804f44bc8?pvs=21),Bayesian neural networks for stock price forecasting before and during COVID-19 pandemic,Yixuan He,Australia,School of Mathematics and Statistics,"School of Mathematics and Statistics, University of New South Wales, Sydney, Australia","Rohitash ChandraID☯*, Yixuan He☯
+School of Mathematics and Statistics, University of New South Wales, Sydney, Australia",,,,,,,
+56,10.48048/tis.2022.3045 (https://www.notion.so/10-48048-tis-2022-3045-10c0ee199b1d812ca040dbf433f4cf57?pvs=21),A Gaussian Process Regression Model for Forecasting Stock Exchange of Thailand,Kamonrat Suphawan,Thailand,"Data Science Research Center, Department of Statistics, Faculty of Science,","Data Science Research Center, Department of Statistics, Faculty of Science, Chiang Mai University,
+Chiang Mai 50200, Thailand","Kamonrat Suphawan, Ruethaichanok Kardkasem and Kuntalee Chaisee*
+Data Science Research Center, Department of Statistics, Faculty of Science, Chiang Mai University,
+Chiang Mai 50200, Thailand",,,,,,,
+56,10.48048/tis.2022.3045 (https://www.notion.so/10-48048-tis-2022-3045-10c0ee199b1d812ca040dbf433f4cf57?pvs=21),A Gaussian Process Regression Model for Forecasting Stock Exchange of Thailand,Ruethaichanok Kardkasem,Thailand,"Data Science Research Center, Department of Statistics, Faculty of Science,","Data Science Research Center, Department of Statistics, Faculty of Science, Chiang Mai University,
+Chiang Mai 50200, Thailand","Kamonrat Suphawan, Ruethaichanok Kardkasem and Kuntalee Chaisee*
+Data Science Research Center, Department of Statistics, Faculty of Science, Chiang Mai University,
+Chiang Mai 50200, Thailand",,,,,,,
+56,10.48048/tis.2022.3045 (https://www.notion.so/10-48048-tis-2022-3045-10c0ee199b1d812ca040dbf433f4cf57?pvs=21),A Gaussian Process Regression Model for Forecasting Stock Exchange of Thailand,Kuntalee Chaisee,Thailand,"Data Science Research Center, Department of Statistics, Faculty of Science,","Data Science Research Center, Department of Statistics, Faculty of Science, Chiang Mai University,
+Chiang Mai 50200, Thailand","Kamonrat Suphawan, Ruethaichanok Kardkasem and Kuntalee Chaisee*
+Data Science Research Center, Department of Statistics, Faculty of Science, Chiang Mai University,
+Chiang Mai 50200, Thailand",,,,,,,
+57,WOS:000518042000069 (https://www.notion.so/WOS-000518042000069-10c0ee199b1d8194a016f7519d8e1ff3?pvs=21),An Improved Probabilistic Neural Network Model for Directional Prediction of a Stock Market Index,Vasana Chandrasekara,Sri Lanka," Department of Statistics & Computer Science","Department of Statistics & Computer Science, University of Kelaniya, Kelaniya 11600, Sri Lanka","Vasana Chandrasekara 1,*, Chandima Tilakaratne 2 and Musa Mammadov 3
+1 Department of Statistics & Computer Science, University of Kelaniya, Kelaniya 11600, Sri Lanka
+2 Department of Statistics, University of Colombo, Colombo 00700, Sri Lanka; mailto:cdt@stat.cmb.ac.lk
+3 School of Information Technology, Deakin University, Geelong VIC 3220, Australia;
+mailto:musa.mammadov@deakin.edu.au",,,,,,,
+57,WOS:000518042000069 (https://www.notion.so/WOS-000518042000069-10c0ee199b1d8194a016f7519d8e1ff3?pvs=21),An Improved Probabilistic Neural Network Model for Directional Prediction of a Stock Market Index,Chandima Tilakaratne,Sri Lanka,Department of Statistics," Department of Statistics, University of Colombo, Colombo 00700, Sri Lanka;","Vasana Chandrasekara 1,*, Chandima Tilakaratne 2 and Musa Mammadov 3
+1 Department of Statistics & Computer Science, University of Kelaniya, Kelaniya 11600, Sri Lanka
+2 Department of Statistics, University of Colombo, Colombo 00700, Sri Lanka; mailto:cdt@stat.cmb.ac.lk
+3 School of Information Technology, Deakin University, Geelong VIC 3220, Australia;
+mailto:musa.mammadov@deakin.edu.au",,,,,,,
+57,WOS:000518042000069 (https://www.notion.so/WOS-000518042000069-10c0ee199b1d8194a016f7519d8e1ff3?pvs=21),An Improved Probabilistic Neural Network Model for Directional Prediction of a Stock Market Index,Musa Mammadov,Australia,School of Information Technology,"School of Information Technology, Deakin University, Geelong VIC 3220, Australia;","Vasana Chandrasekara 1,*, Chandima Tilakaratne 2 and Musa Mammadov 3
+1 Department of Statistics & Computer Science, University of Kelaniya, Kelaniya 11600, Sri Lanka
+2 Department of Statistics, University of Colombo, Colombo 00700, Sri Lanka; mailto:cdt@stat.cmb.ac.lk
+3 School of Information Technology, Deakin University, Geelong VIC 3220, Australia;
+mailto:musa.mammadov@deakin.edu.au",,,,,,,
+58,WOS:000724824100012 (https://www.notion.so/WOS-000724824100012-10c0ee199b1d81209e26e9f4bf8abcbe?pvs=21),"Stock index prediction and uncertainty analysis using multi-scale nonlinear ensemble paradigm of optimal feature extraction, two-stage deep learning and Gaussian process regression","Jujie Wang ",China,School of Management Science and Engineering,"School of Management Science and Engineering, Nanjing University of Information Science and Technology, Nanjing 210044, China","Jujie Wang a,∗
+, Junjie He b
+, Chunchen Feng c
+, Liu Feng c
+, Yang Li c
+a
+School of Management Science and Engineering, Nanjing University of Information Science and Technology, Nanjing 210044, China
+b
+School of Computer and Software, Nanjing University of Information Science and Technology, Nanjing 210044, China
+c Changwang School of Honors, Nanjing University of Information Science and Technology, Nanjing 210044, China
+",,,,,,,
+58,WOS:000724824100012 (https://www.notion.so/WOS-000724824100012-10c0ee199b1d81209e26e9f4bf8abcbe?pvs=21),"Stock index prediction and uncertainty analysis using multi-scale nonlinear ensemble paradigm of optimal feature extraction, two-stage deep learning and Gaussian process regression",Junjie He,China,School of Computer and Software,"School of Computer and Software, Nanjing University of Information Science and Technology, Nanjing 210044, China","Jujie Wang a,∗
+, Junjie He b
+, Chunchen Feng c
+, Liu Feng c
+, Yang Li c
+a
+School of Management Science and Engineering, Nanjing University of Information Science and Technology, Nanjing 210044, China
+b
+School of Computer and Software, Nanjing University of Information Science and Technology, Nanjing 210044, China
+c Changwang School of Honors, Nanjing University of Information Science and Technology, Nanjing 210044, China
+",,,,,,,
+58,WOS:000724824100012 (https://www.notion.so/WOS-000724824100012-10c0ee199b1d81209e26e9f4bf8abcbe?pvs=21),"Stock index prediction and uncertainty analysis using multi-scale nonlinear ensemble paradigm of optimal feature extraction, two-stage deep learning and Gaussian process regression"," Chunchen Feng",China,Changwang School of Honor,"Changwang School of Honors, Nanjing University of Information Science and Technology, Nanjing 210044, China","Jujie Wang a,∗
+, Junjie He b
+, Chunchen Feng c
+, Liu Feng c
+, Yang Li c
+a
+School of Management Science and Engineering, Nanjing University of Information Science and Technology, Nanjing 210044, China
+b
+School of Computer and Software, Nanjing University of Information Science and Technology, Nanjing 210044, China
+c Changwang School of Honors, Nanjing University of Information Science and Technology, Nanjing 210044, China
+",,,,,,,
+58,WOS:000724824100012 (https://www.notion.so/WOS-000724824100012-10c0ee199b1d81209e26e9f4bf8abcbe?pvs=21),"Stock index prediction and uncertainty analysis using multi-scale nonlinear ensemble paradigm of optimal feature extraction, two-stage deep learning and Gaussian process regression",Liu Feng,China,Changwang School of Honor,"Changwang School of Honors, Nanjing University of Information Science and Technology, Nanjing 210044, China","Jujie Wang a,∗
+, Junjie He b
+, Chunchen Feng c
+, Liu Feng c
+, Yang Li c
+a
+School of Management Science and Engineering, Nanjing University of Information Science and Technology, Nanjing 210044, China
+b
+School of Computer and Software, Nanjing University of Information Science and Technology, Nanjing 210044, China
+c Changwang School of Honors, Nanjing University of Information Science and Technology, Nanjing 210044, China
+",,,,,,,
+58,WOS:000724824100012 (https://www.notion.so/WOS-000724824100012-10c0ee199b1d81209e26e9f4bf8abcbe?pvs=21),"Stock index prediction and uncertainty analysis using multi-scale nonlinear ensemble paradigm of optimal feature extraction, two-stage deep learning and Gaussian process regression"," Yang Li",China,Changwang School of Honor,"Changwang School of Honors, Nanjing University of Information Science and Technology, Nanjing 210044, China","Jujie Wang a,∗
+, Junjie He b
+, Chunchen Feng c
+, Liu Feng c
+, Yang Li c
+a
+School of Management Science and Engineering, Nanjing University of Information Science and Technology, Nanjing 210044, China
+b
+School of Computer and Software, Nanjing University of Information Science and Technology, Nanjing 210044, China
+c Changwang School of Honors, Nanjing University of Information Science and Technology, Nanjing 210044, China
+",,,,,,,
+59,10.1016/j.knosys.2019.03.029 (https://www.notion.so/10-1016-j-knosys-2019-03-029-1130ee199b1d810ba1a0f008a1b1d2b9?pvs=21),Sentiment-aware volatility forecasting,Frank Z. Xing,Singapore,School of Computer Science & Engineering,"School of Computer Science & Engineering, Nanyang Technological University, Singapore","Frank Z. Xing a
+, Erik Cambria a,∗
+, Yue Zhang b
+a
+School of Computer Science & Engineering, Nanyang Technological University, Singapore
+b
+Institute of Advanced Technology, Westlake University, China",,,,,,,
+59,10.1016/j.knosys.2019.03.029 (https://www.notion.so/10-1016-j-knosys-2019-03-029-1130ee199b1d810ba1a0f008a1b1d2b9?pvs=21),Sentiment-aware volatility forecasting,Erik Cambria,Singapore,School of Computer Science & Engineering,"School of Computer Science & Engineering, Nanyang Technological University, Singapore","Frank Z. Xing a
+, Erik Cambria a,∗
+, Yue Zhang b
+a
+School of Computer Science & Engineering, Nanyang Technological University, Singapore
+b
+Institute of Advanced Technology, Westlake University, China",,,,,,,
+59,10.1016/j.knosys.2019.03.029 (https://www.notion.so/10-1016-j-knosys-2019-03-029-1130ee199b1d810ba1a0f008a1b1d2b9?pvs=21),Sentiment-aware volatility forecasting,Yue Zhang,China,"
+Institute of Advanced Technology, ","Institute of Advanced Technology, Westlake University, China
+","Frank Z. Xing a
+, Erik Cambria a,∗
+, Yue Zhang b
+a
+School of Computer Science & Engineering, Nanyang Technological University, Singapore
+b
+Institute of Advanced Technology, Westlake University, China",,,,,,,
+60,WOS:001281386400001 (https://www.notion.so/WOS-001281386400001-10c0ee199b1d81f5aaafc9e335cd87de?pvs=21),Integrating spotted hyena optimization technique with generative artificial intelligence for time series forecasting,Reda Salama,Saudi Arabia,"Information Technology Department, Faculty
+of Computing and Information Technology","Information Technology Department, Faculty
+of Computing and Information Technology,
+King Abdulaziz University, Jeddah,
+Saudi Arabia","Reda Salama
+Information Technology Department, Faculty
+of Computing and Information Technology,
+King Abdulaziz University, Jeddah,
+Saudi Arabia",,,,,,,
+61,WOS:000294432100009 (https://www.notion.so/WOS-000294432100009-1200ee199b1d814dbc6afbbb36267d05?pvs=21),Trend forecasting of financial time series using PIPs detection and continuous HMM,"https://content.iospress.com/search?q=author%3A%28%22Park,%20Sang-Ho%22%29",Korea,Department of Computer Science and Information Technology," Department of Computer Science and Information Technology, Inha University, Incheon, Korea
+
+","Authors: https://content.iospress.com/search?q=author%3A%28%22Park,%20Sang-Ho%22%29https://content.iospress.com/articles/intelligent-data-analysis/ida00495#a | https://content.iospress.com/search?q=author%3A%28%22Lee,%20Ju-Hong%22%29https://content.iospress.com/articles/intelligent-data-analysis/ida00495#a; https://content.iospress.com/articles/intelligent-data-analysis/ida00495#* | https://content.iospress.com/search?q=author%3A%28%22Lee,%20Hyo-Chan%22%29https://content.iospress.com/articles/intelligent-data-analysis/ida00495#b
+Affiliations: [a] Department of Computer Science and Information Technology, Inha University, Incheon, Korea | [b] Department of International Trade, Chung-Ang University, Seoul, Korea",,,,,,,
+61,WOS:000294432100009 (https://www.notion.so/WOS-000294432100009-1200ee199b1d814dbc6afbbb36267d05?pvs=21),Trend forecasting of financial time series using PIPs detection and continuous HMM,"https://content.iospress.com/search?q=author%3A%28%22Lee,%20Ju-Hong%22%29",Korea,Department of Computer Science and Information Technology," Department of Computer Science and Information Technology, Inha University, Incheon, Korea
+
+","Authors: https://content.iospress.com/search?q=author%3A%28%22Park,%20Sang-Ho%22%29https://content.iospress.com/articles/intelligent-data-analysis/ida00495#a | https://content.iospress.com/search?q=author%3A%28%22Lee,%20Ju-Hong%22%29https://content.iospress.com/articles/intelligent-data-analysis/ida00495#a; https://content.iospress.com/articles/intelligent-data-analysis/ida00495#* | https://content.iospress.com/search?q=author%3A%28%22Lee,%20Hyo-Chan%22%29https://content.iospress.com/articles/intelligent-data-analysis/ida00495#b
+Affiliations: [a] Department of Computer Science and Information Technology, Inha University, Incheon, Korea | [b] Department of International Trade, Chung-Ang University, Seoul, Korea",,,,,,,
+61,WOS:000294432100009 (https://www.notion.so/WOS-000294432100009-1200ee199b1d814dbc6afbbb36267d05?pvs=21),Trend forecasting of financial time series using PIPs detection and continuous HMM,"https://content.iospress.com/search?q=author%3A%28%22Lee,%20Hyo-Chan%22%29https://content.iospress.com/articles/intelligent-data-analysis/ida00495#bhttps://content.iospress.com/search?q=author%3A%28%22Lee,%20Hyo-Chan%22%29",Korea,Department of International Trade," Department of International Trade, Chung-Ang University, Seoul, Korea
+
+","Authors: https://content.iospress.com/search?q=author%3A%28%22Park,%20Sang-Ho%22%29https://content.iospress.com/articles/intelligent-data-analysis/ida00495#a | https://content.iospress.com/search?q=author%3A%28%22Lee,%20Ju-Hong%22%29https://content.iospress.com/articles/intelligent-data-analysis/ida00495#a; https://content.iospress.com/articles/intelligent-data-analysis/ida00495#* | https://content.iospress.com/search?q=author%3A%28%22Lee,%20Hyo-Chan%22%29https://content.iospress.com/articles/intelligent-data-analysis/ida00495#b
+Affiliations: [a] Department of Computer Science and Information Technology, Inha University, Incheon, Korea | [b] Department of International Trade, Chung-Ang University, Seoul, Korea",,,,,,,
+62,WOS:000753670800002 (https://www.notion.so/WOS-000753670800002-1130ee199b1d81919655c513a7ff363e?pvs=21),Probabilistic machine learning for local volatility,Martin Tegnér,United Kingdom,http://www.eng.ox.ac.uk/,Ppostdoctoral researcher in the fileds of machine learning and finance at the http://www.eng.ox.ac.uk/,"Martin Tegnér - Ppostdoctoral researcher in the fileds of machine learning and finance at the http://www.eng.ox.ac.uk/
+
+
+Stephen Roberts - Royal Academy of Engineering/Man Group Professor of Machine Learning at the University of Oxford, Professorial Fellow of Somerville College, Oxford, and co-founder of the Machine Learning spin-out company, Mind Foundry.",, http://www.maths.ox.ac.uk/groups/mathematical-finance," http://www.maths.ox.ac.uk/groups/mathematical-finance, University of Oxford, UK",,,,
+62,WOS:000753670800002 (https://www.notion.so/WOS-000753670800002-1130ee199b1d81919655c513a7ff363e?pvs=21),Probabilistic machine learning for local volatility,Stephen Roberts,United Kingdom,Machine Learning,"Royal Academy of Engineering/Man Group Professor of Machine Learning at the University of Oxford, Professorial Fellow of Somerville College, Oxford, and co-founder of the Machine Learning spin-out company, Mind Foundry.","Martin Tegnér - Ppostdoctoral researcher in the fileds of machine learning and finance at the http://www.eng.ox.ac.uk/
+
+
+Stephen Roberts - Royal Academy of Engineering/Man Group Professor of Machine Learning at the University of Oxford, Professorial Fellow of Somerville College, Oxford, and co-founder of the Machine Learning spin-out company, Mind Foundry.",,,,,,,
